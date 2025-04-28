@@ -36,11 +36,11 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /img/conference_logo.png
+logo:                  /img/hnr2026_logo.png
 
 # Favicon (added by MG):
-favicon:               /img/conference_logo.png
-apple_touch_icon:      /img/conference_logo.png
+favicon:               /img/hnr2026_logo.png
+apple_touch_icon:      /img/hnr2026_logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -97,13 +97,13 @@ remote_theme: hydecorp/hydejack@v9.1.6
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /img/hnr2024_header3.jpg
-accent_color:          rgb(236,149,177)
+accent_image:          /img/hnr2026_header1.jpg
+accent_color:          rgb(167,207,233)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(236,149,177)
+theme_color:           rgb(167,207,233)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -126,7 +126,7 @@ defaults:
   - scope:
       path:            hyde/
     values:
-      accent_color:    rgb(38,139,210)
+      accent_color:    rgb(167,207,233)
       theme_color:     rgb(32,32,32)
       accent_image:
         background:    rgb(32,32,32)
