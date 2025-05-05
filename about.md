@@ -27,6 +27,6 @@ More informations soon.
 
 ## Credits
 
-This website is hosted on [Github](https://github.com/historicalnetworkresearch/lausanne) and archived on [Zenodo](https://doi.org/10.5281/zenodo.10084450). 
+This website is hosted on [Github](https://github.com/historicalnetworkresearch/turin). 
 
-Cover image: CREDIT
+Cover image: [Francesco Manzari, Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Views_of_Turin#/media/File:Turin_skyline.jpg)
