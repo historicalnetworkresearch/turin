@@ -11,6 +11,6 @@ cover: true
 
 The 11th International Historical Network Research Conference (HNR2026) will take place at the [Università di Torino](https://www.unito.it/), Italy.
 
-More informations and dates soon.
+More information and dates soon.
 
 <img src="img/hnr_logo_vector.png" width="200">
