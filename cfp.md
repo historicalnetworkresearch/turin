@@ -72,6 +72,9 @@ Including an image in the abstract is encouraged to allow a general discussion o
 ### Authors' presence at the conference
 Although it is possible to follow the conference via streaming, it is nevertheless an on-site event. By submitting a paper, authors are aware that at least one person will need to be in Turin to present it.
 
+### Presentation Bursaries
+The HNR2026 organizing committee has obtained funding for conference accomodation for up to three accepted papers by graduate students and post-doctoral/early career researchers. This accomdation with be at University of Turin residence for the nights of July 19, 20, 21, 22. For those wishing to apply for this bursary, please indicate so in your application. Your abstract must be accompanied by an two-page (maximum) vita. 
+
 ## Important dates
 December 1, 2025: deadline for submissions  
 February 1, 2026: notification of acceptance/rejection  
