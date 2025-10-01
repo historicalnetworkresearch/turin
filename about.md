@@ -26,10 +26,10 @@ Research Fellow, ERC StG Project DEMALPS - Department of Historical Studies, Uni
 **Tiziana Pasciuto** ([mail](mailto:tiziana.pasciuto@unito.it))  
 Tiziana Pasciuto - Research Fellow, ERC 2023 CoG Project REDMIX - Department of Historical Studies, Università di Torino
 
-<a href="https://orcid.org/0000-0002-8632-7105"><img src="himg/alessandra_celati.jpg" style="width:100px"></a>  
+<a href="https://orcid.org/0000-0002-8632-7105"><img src="img/alessandra_celati.jpg" style="width:100px"></a>  
 **Alessandra Celati**  ([mail](mailto:alessandra.celati@unito.it)) 
 Research Fellow - Department of Historical Studies and Digital History Lab, Università di Torino
 
-<a href="https://uff.academia.edu/RenatoDaSilva"><img src="margherita_criveller.jpg" style="width:100px"></a>  
+<a href="https://uff.academia.edu/RenatoDaSilva"><img src="img/margherita_criveller.jpg" style="width:100px"></a>  
 **Margherita Criveller** ([mail](mailto:margherita.criveller@unimi.it))   
 Post-doctoral fellow, Department of Social and Political Sciences, Università di Milano
