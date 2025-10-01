@@ -20,7 +20,7 @@ The 11th International Historical Network Research Conference (HNR2025) will tak
 
 ### Sponsors
 
-<img src="img/logo_unito_storia.gif" width="200"> <img src="img/logo_demalps.jpg" width="100"> <img src="img/logo_redmix.jpeg" width="100">   
+<img src="img/logo_unito_storia.gif" width="200"> <img src="img/logo_demalps.jpg" width="100"> <img src="img/logo_redmix.png" width="100">   
 
 
 DEMALPS and REDMIX are funded by the European Research Council (ERC)  (respectively grant numbers <a href="https://cordis.europa.eu/project/id/101077793">101077793</a> and  <a href="https://cordis.europa.eu/project/id/101124725 ">101124725 </a>)
