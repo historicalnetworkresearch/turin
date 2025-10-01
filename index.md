@@ -13,7 +13,7 @@ The 11th International Historical Network Research Conference (HNR2026) will tak
 
 |  <a href="cfp"><img src="img/cfp.jpg" width="270px"></a>     |     <a href="program"><img src="img/scott_weingart.jpg" width="270px"></a>                  |   <a href="practical"><img src="img/universita-di-torino-italia.jpg" width="300px"></a>    | 
 | ----------- | ----------------------------------- | -------------------- |
-| <a href="cfp">**Call for Papers**</a><br>Call for Papers is open until December 1, 2025.  | <a href="program">**Program**</a><br>The keynote speaker will be <a href="https://scottbot.github.io/">Scott Weingart</a>, author of *The Network Turn* and *Exploring Big Historical Data: The Historian’s Macroscope* . | <a href="practical">**Practical information**</a><br>Information about the the host city and institution. | 
+| <a href="cfp">**Call for Papers**</a><br>Call for Papers is open until December 1, 2025.  | <a href="program">**Program**</a><br>The keynote speaker will be <a href="https://scottbot.github.io/">Scott Weingart</a>. | <a href="practical">**Practical information**</a><br>Information about the the host city and institution. | 
 
 
 <img src="img/hnr_logo_vector.png" width="200">  <img src="img/logo_unito.png" width="100">  
