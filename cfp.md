@@ -73,6 +73,7 @@ Including an image in the abstract is encouraged to allow a general discussion o
 Although it is possible to follow the conference via streaming, it is nevertheless an on-site event. By submitting a paper, authors are aware that at least one person will need to be in Rio de Janeiro to present it.
 
 ## Important dates
+
 December 1, 2025: deadline for submissions 
 February 1, 2026: notification of acceptance/rejection  
 March 1, 2026: registration opening  
