@@ -32,8 +32,7 @@ the identification, retrieval, and use of sources;
 * challenges of abstraction in network analysis and possible solutions;
 * case studies demonstrating the heuristic value of network methodologies;
 * theoretical and empirical reflections on how network thinking reshapes sources;
-* data extraction, modeling, and visualization from historical sources;
-* experimentation with so-called AI (LLM, NLP) and historical networks 
+* data extraction, modeling, and visualization from historical sources (including experimental treatment of sources with so-called AI (LLM, NLP));
 
 
 We especially encourage interdisciplinary approaches and contributions that combine methodological reflection with empirical research.
