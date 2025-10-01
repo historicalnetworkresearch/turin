@@ -9,11 +9,11 @@ cover: true
 
 ## HNR2025
 
-The 11th International Historical Network Research Conference (HNR2025) will take place on **July 20-22, 2026** at the Università di Torino (UNITO) in Turin, Italy. It brings together researchers applying network research methods in the historical sciences.
+The 11th International Historical Network Research Conference (HNR2025) will take place on **July 20-22, 2026** at the Università di Torino (UNITO) in Turin, Italy. It brings together researchers applying network research methods in the all historical sciences from history to archaeology, from literary studies to art history.
 
-|  <a href="https://hnr2026.sciencesconf.org"><img src="img/SalaoNobre.jpg" width="270"></a>     |     <a href="program"><img src="img/Salao2.jpg" width="270"></a>                  |   <a href="practical"><img src="img/rio3.jpeg" width="300"></a>    | 
+|  <a href="cfp"><img src="img/SalaoNobre.jpg" width="270"></a>     |     <a href="program"><img src="img/Salao2.jpg" width="270"></a>                  |   <a href="practical"><img src="img/rio3.jpeg" width="300"></a>    | 
 | ----------- | ----------------------------------- | -------------------- |
-| <a href="https://hnr2025.sciencesconf.org">**Registration**</a><br>Registration is now open and free of charge. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <a href="program">**Program**</a><br>The preliminary conference program is now available. | <a href="practical">**Practical information**</a><br>Some information about the location and Rio. | 
+| <a href="cfp">**Call for Papers**</a><br>Call for Papers is open until December 1, 2025. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <a href="program">**Program**</a><br>The keynote speaker will be <a href="https://scottbot.github.io/">Scott Weingart</a>, author of *The Network Turn* and *Exploring Big Historical Data: The Historian’s Macroscope* . More program details forthcoming. | <a href="practical">**Practical information**</a><br>Information about the location and Turin. | 
 
 
 <img src="img/hnr_logo_vector.png" width="200">  <img src="img/logo_unito.png" width="100">  
