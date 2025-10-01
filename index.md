@@ -7,9 +7,9 @@ hide_image: false
 cover: true
 ---
 
-## HNR2025
+## HNR2026
 
-The 11th International Historical Network Research Conference (HNR2025) will take place on **July 20-22, 2026** at the Università di Torino (UNITO) in Turin, Italy. It brings together researchers applying network research methods in the all historical sciences from history to archaeology, from literary studies to art history.
+The 11th International Historical Network Research Conference (HNR2026) will take place on **July 20-22, 2026** at the Università di Torino (UNITO) in Turin, Italy. It brings together researchers applying network research methods in the all historical sciences from history to archaeology, from literary studies to art history.
 
 |  <a href="cfp"><img src="img/SalaoNobre.jpg" width="270"></a>     |     <a href="program"><img src="img/Salao2.jpg" width="270"></a>                  |   <a href="practical"><img src="img/rio3.jpeg" width="300"></a>    | 
 | ----------- | ----------------------------------- | -------------------- |
