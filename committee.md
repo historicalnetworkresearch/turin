@@ -7,6 +7,7 @@ hide_image: false
 cover: false
 ---
 
+
 # Scientific Committee
 
-More informations soon.
+Conference papers are reviewed by the scientific committee, currently being assembled. If you are interested in brig part of the scientific review committee for HNR2026 please contact the <a href="about">organizers</a>.
