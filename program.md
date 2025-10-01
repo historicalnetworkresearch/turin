@@ -7,10 +7,18 @@ hide_image: false
 cover: false
 ---
 
-# Program
+## Program Highlights (Provisional)
 
-We are pleased to announce that the opening keynote speaker for HNR2026 will be [Scott Weingart](https://scottbot.github.io/), author of *[The Network Turn](https://www.cambridge.org/core/books/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5)* and *[Exploring Big Historical Data: The Historian’s Macroscope](https://themacroscope.org/)*.
+We are delighted to announce that the **opening keynote lecture** at HNR2026 will be delivered by [**Scott Weingart**](https://scottbot.github.io/), author of *[The Network Turn](https://www.cambridge.org/core/books/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5)* and *[Exploring Big Historical Data: The Historian’s Macroscope](https://themacroscope.org/)*.  
 
-The program is under development and will be announced March 1, 2026, after the <a href="cpf">selection of papers</a>.
+The **full program of long and short paper sessions** will be announced on **1 March 2026**, following the [selection of papers](cpf).  
 
-In addition to long and short papers, day 1 of the conference (July 20) will be dedicated to workshops as well as round tables and a  closing keynote. 
+Alongside paper sessions, HNR2026 will include:  
+- **Workshops** introducing methods and tools for historical network research  
+- **Round tables** bringing together experts for open discussion and debate  
+- A **closing keynote** to frame the conference’s wider conversations  
+
+Stay tuned for more announcements as we build the program!
+
+
+
