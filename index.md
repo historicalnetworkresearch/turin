@@ -9,7 +9,7 @@ cover: true
 
 ## HNR2026
 
-The 11th International Historical Network Research Conference (HNR2026) will take place on **July 20-22, 2026** at the Università di Torino (UNITO) in Turin, Italy. It brings together researchers applying network research methods in the all historical sciences from history to archaeology, from literary studies to art history.
+The 11th International Historical Network Research Conference (HNR2026) will take place on **July 20-22, 2026** at the Università di Torino (UNITO) in Turin, Italy. It brings together researchers applying network research methods in the all historical sciences from history and archaeology to literary studies and art history.
 
 |  <a href="cfp"><img src="img/cfp.jpg" width="270px"></a>     |     <a href="program"><img src="img/scott_weingart.jpg" width="270px"></a>                  |   <a href="practical"><img src="img/universita-di-torino-italia.jpg" width="300px"></a>    | 
 | ----------- | ----------------------------------- | -------------------- |
