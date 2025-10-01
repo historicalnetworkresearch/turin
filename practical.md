@@ -7,7 +7,7 @@ hide_image: false
 cover: false
 ---
 
-# Practical informations
+# Practical information
 
 * Table of contents
 {:toc}
