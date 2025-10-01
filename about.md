@@ -15,21 +15,21 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 <a href="https://historicalnetworkresearch.org/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/hnr_logo_vector.png" style="width:200px"></a>
 
 
-## Coordination
+## Conference
 
 
-<a href="https://www.inf.ufrgs.br/~bazzan/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/turin/img/jean-paul_rehr.jpg" style="width:100px"></a>  
+<a href="https://www.inf.ufrgs.br/~bazzan/"><img src="img/jean-paul_rehr.jpg" style="width:100px"></a>  
 **Jean-Paul Rehr**  ([mail](mailto:jeanpaulbernard.rehr@unito.it)) 
-Research Fellow, ERC Project DEMALPS - Università di Torino
+Research Fellow, ERC StG Project DEMALPS - Department of Historical Studies, Università di Torino
 
-<a href="https://www.c2dh.uni.lu/people/demival-vasques"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/turin/img/tiziana_pasciuto.jpg" style="width:100px"></a>  
+<a href="https://www.c2dh.uni.lu/people/demival-vasques"><img src="img/tiziana_pasciuto.jpg" style="width:100px"></a>  
 **Tiziana Pasciuto** ([mail](mailto:tiziana.pasciuto@unito.it))  
-Research Fellow, ERC Project REDMIX - Università di Torino
+Tiziana Pasciuto - Research Fellow, ERC 2023 CoG Project REDMIX - Department of Historical Studies, Università di Torino
 
-<a href="https://orcid.org/0000-0002-8632-7105"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/turin/img/alessandra_celati.jpg" style="width:100px"></a>  
+<a href="https://orcid.org/0000-0002-8632-7105"><img src="himg/alessandra_celati.jpg" style="width:100px"></a>  
 **Alessandra Celati**  ([mail](mailto:alessandra.celati@unito.it)) 
 Research Fellow - Department of Historical Studies and Digital History Lab, Università di Torino
 
-<a href="https://uff.academia.edu/RenatoDaSilva"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/turin/img/margherita_criveller.jpg" style="width:100px"></a>  
+<a href="https://uff.academia.edu/RenatoDaSilva"><img src="margherita_criveller.jpg" style="width:100px"></a>  
 **Margherita Criveller** ([mail](mailto:margherita.criveller@unimi.it))   
 Post-doctoral fellow, Department of Social and Political Sciences, Università di Milano
