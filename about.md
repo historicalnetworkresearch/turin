@@ -9,24 +9,27 @@ cover: false
 
 # Organization
 
-* Table of contents
-{:toc}
-
-## Local organizers
-
-More informations soon.
-
 ## Research Community
 The [Historical Network Research Community](https://historicalnetworkresearch.org/) brings together researchers interested in the application of network analysis to historical disciplines. In addition to the [HNR Conference and HNR Workshops](https://historicalnetworkresearch.org/hnr-events/), it publishes the [Journal of Historical Network Research](https://jhnr.uni.lu/index.php/jhnr/index) and compiles a collaborative [bibliography](https://historicalnetworkresearch.org/bibliography/).
 
-<a href="https://historicalnetworkresearch.org/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/hnr_logo_vector.png" style="width:200px"></a>
+<a href="https://historicalnetworkresearch.org/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/hnr_logo_vector.png" style="width:200px"></a>
+
 
 ## Coordination
 
-More informations soon.
 
-## Credits
+<a href="https://www.inf.ufrgs.br/~bazzan/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/turin/img/jean-paul_rehr.jpg" style="width:100px"></a>  
+**Jean-Paul Rehr**  ([mail](mailto:jeanpaulbernard.rehr@unito.it)) 
+Research Fellow, ERC Project DEMALPS - Università di Torino
 
-This website is hosted on [Github](https://github.com/historicalnetworkresearch/turin). 
+<a href="https://www.c2dh.uni.lu/people/demival-vasques"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/turin/img/tiziana_pasciuto.jpg" style="width:100px"></a>  
+**Tiziana Pasciuto** ([mail](mailto:tiziana.pasciuto@unito.it))  
+Research Fellow, ERC Project REDMIX - Università di Torino
 
-Cover image: [Francesco Manzari, Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Views_of_Turin#/media/File:Turin_skyline.jpg)
+<a href="https://orcid.org/0000-0002-8632-7105"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/turin/img/alessandra_celati.jpg" style="width:100px"></a>  
+**Alessandra Celati**  ([mail](mailto:alessandra.celati@unito.it)) 
+Research Fellow - Department of Historical Studies and Digital History Lab, Università di Torino
+
+<a href="https://uff.academia.edu/RenatoDaSilva"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/turin/img/margherita_criveller.jpg" style="width:100px"></a>  
+**Margherita Criveller** ([mail](mailto:margherita.criveller@unimi.it))   
+Post-doctoral fellow, Department of Social and Political Sciences, Università di Milano
