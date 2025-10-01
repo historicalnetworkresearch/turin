@@ -18,7 +18,7 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 ## Conference
 
 
-<a href="https://www.inf.ufrgs.br/~bazzan/"><img src="img/jean-paul_rehr.jpg" style="width:100px"></a>  
+<a href="https://www.inf.ufrgs.br/~bazzan/"><img src="https://historicalnetworkresearch.github.io/turin/img/jean-paul_rehr.jpg" style="width:100px"></a>  
 **Jean-Paul Rehr**  ([mail](mailto:jeanpaulbernard.rehr@unito.it)) 
 Research Fellow, ERC StG Project DEMALPS - Department of Historical Studies, Università di Torino
 
