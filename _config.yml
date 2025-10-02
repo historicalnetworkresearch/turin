@@ -54,13 +54,13 @@ author:
 menu:
   - title:             Homepage
     url:               /
-  - title:             Call for papers
+  - title:             Call for Papers
     url:               /cfp/
   - title:             Program
     url:               /program/  
-  - title:             Practical informations
+  - title:             Practical information
     url:               /practical/
-  - title:             Organization
+  - title:             Conference Organization
     url:               /about/
   - title:             Scientific Committee
     url:               /committee/
