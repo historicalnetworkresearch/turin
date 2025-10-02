@@ -61,7 +61,7 @@ Abstracts must be submitted via the conference management platform ([https://hnr
 
 <button class="button button1" onclick="window.location.href='https://hnr2026.sciencesconf.org/';">Submit your paper here</button>
 
-The author (or corresponding author in the case of multi-authored papers) must create an account on the platform and then fill in the form. Abstracts must be submitted in PDF format only.   
+The author (or corresponding author in the case of multi-authored papers) must create an account on the platform and then fill in the form. Abstracts are submitted in plain text. You may also upload visualizations to accompany the abstract if you wish.
 
 * Abstracts must be written in English.  
 * Citations must use the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) 17th Edition Author-Date style (author-date in the text, then full reference at the end).
