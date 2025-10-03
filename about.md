@@ -24,7 +24,7 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 **Margherita Criveller** ([mail](mailto:margherita.criveller@unimi.it))<br>Post-doctoral fellow, Department of Social and Political Sciences, Università di Milano
 
 <a href="https://orcid.org/0000-0002-2440-2376"><img src="../img/tiziana_pasciuto.jpg" style="width:100px"></a>  
-**Tiziana Pasciuto** ([mail](mailto:tiziana.pasciuto@unito.it))<br>Research Fellow, ERC 2023 CoG Project REDMIX - Department of Historical Studies, Università di Torino
+**Tiziana Pasciuto** ([mail](mailto:tiziana.pasciuto@unito.it))<br>Research Fellow, ERC CoG Project REDMIX - Department of Historical Studies, Università di Torino
 
 <a href="https://unito.academia.edu/JeanPaulRehr"><img src="../img/jean-paul_rehr.jpg" style="width:100px"></a>  
 **Jean-Paul Rehr** (Lead organizer) ([mail](mailto:jeanpaulbernard.rehr@unito.it))<br>Research Fellow, ERC StG Project DEMALPS - Department of Historical Studies, Università di Torino
