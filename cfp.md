@@ -14,7 +14,7 @@ cover: false
 
 The Historical Network Research community is very pleased to announce the call for papers for the Historical Networks Research conference 2026 which will take place in Turin, Italy, from Monday 20 July to Wednesday 22 July, 2026 at the University of Turin.  
 
-Nota bene: due to a technical issue, the deadline for Call for Papers has been extneded until December 21, 2025.
+Nota bene: due to a technical issue, the deadline for Call for Papers has been extended until December 21, 2025.
 
 ### Historical Network Research
 
