@@ -14,6 +14,8 @@ cover: false
 
 The Historical Network Research community is very pleased to announce the call for papers for the Historical Networks Research conference 2026 which will take place in Turin, Italy, from Monday 20 July to Wednesday 22 July, 2026 at the University of Turin.  
 
+Nota bene: due to a technical issue, the deadline for Call for Papers has been extneded until December 21, 2025.
+
 ### Historical Network Research
 
 The phenomena studied by the historical sciences are, by their very nature, complex situations: they involve, for example, interwoven personal relationships, collective dynamics that structure social and cultural space, or political and economic systems that operate at local and global levels. The network metaphor is frequently used to describe this entanglement. In recent decades, however, historians have begun to think about ways of formalizing this approach, appropriating the concepts and tools of graph theory to provide a new perspective on archives. The application of formal network analysis to history is now a fertile field of experimentation and research. It can be used to analyze the geographical logics of major circulation networks, to highlight brokers in affiliation networks, to compile family trees to reveal their points of contact, to study the occurrences and co-occurrences of concepts in serial texts, to show the evolution of personal social networks, and many more applications emerging every year. Through a great deal of empirical work, the specific features that historical disciplines bring to network science become apparent: particular attention to the modeling of data that is often incomplete and uncertain, the need to take account of temporality in all its finesse, the necessity to find a language that allows mathematical results to be interpreted in a qualitative narrative.  
@@ -74,7 +76,7 @@ Although it is possible to follow the conference via streaming, it is neverthele
 The HNR2026 organizing committee has obtained funding for conference accommodation for up to three accepted papers by graduate students and post-doctoral/early career researchers. This accomdation will be at the University of Turin residence for the nights of July 19-22. For those wishing to apply for this bursary, please indicate so in your application. Your abstract must be accompanied by a two-page (maximum) vita in PDF format. 
 
 ## Important dates
-December 1, 2025: deadline for submissions  
+December 21, 2025: deadline for submissions  (extended dedaline)
 February 1, 2026: notification of acceptance/rejection  
 March 1, 2026: registration opening  
 July 20-22, 2026: conference  
