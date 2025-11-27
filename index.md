@@ -11,6 +11,8 @@ cover: true
 
 The 11th International Historical Network Research Conference (HNR2026) will take place on **July 20-22, 2026** at the Università di Torino (UNITO) in Turin, Italy. It brings together researchers applying network research methods in the all historical sciences from history and archaeology to literary studies and art history.
 
+<span style="color:red">**The call for Papers has been <a href="cfp">extended to Dec 21, 2025</a>!**</span>
+
 |  <a href="cfp"><img src="img/cfp.jpg" width="270px"></a>     |     <a href="program"><img src="img/scott_weingart.jpg" width="270px"></a>                  |   <a href="practical"><img src="img/universita-di-torino-italia.jpg" width="300px"></a>    | 
 | ----------- | ----------------------------------- | -------------------- |
 | <a href="cfp">**Call for Papers**</a><br>Call for Papers is open until December 21, 2025.  | <a href="program">**Program**</a><br>The keynote speaker will be <a href="https://scottbot.github.io/">Scott Weingart</a>. | <a href="practical">**Practical information**</a><br>Information about the the host city and institution. | 
