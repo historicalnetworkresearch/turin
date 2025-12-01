@@ -76,7 +76,7 @@ Although it is possible to follow the conference via streaming, it is neverthele
 The HNR2026 organizing committee has obtained funding for conference accommodation for up to three accepted papers by graduate students and post-doctoral/early career researchers. This accomdation will be at the University of Turin residence for the nights of July 19-22. For those wishing to apply for this bursary, please indicate so in your application. Your abstract must be accompanied by a two-page (maximum) vita in PDF format. 
 
 ## Important dates
-December 21, 2025: deadline for submissions  (extended dedaline)
+December 21, 2025: deadline for submissions (extended deadline)
 February 1, 2026: notification of acceptance/rejection  
 March 1, 2026: registration opening  
 July 20-22, 2026: conference  
