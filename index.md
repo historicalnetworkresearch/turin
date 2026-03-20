@@ -13,7 +13,7 @@ The 11th International Historical Network Research Conference (HNR2026) will tak
 
 <span style="color:red">**Conference registration is now open – no fees!**</span> <a href="program">more info</a>
 
-|  <a href="program"><img src="img/complesso_aldo_moro.jpg" width="270px"></a>     |     <a href="program"><img src="img/scott_weingart.jpg" width="270px"></a>                  |   <a href="practical"><img src="img/universita-di-torino-italia.jpg" width="300px"></a>    | 
+|  <a href="program"><img src="img/complesso_aldo_moro.jpg" width="300px"></a>     |     <a href="program"><img src="img/scott_weingart.jpg" width="270px"></a>                  |   <a href="practical"><img src="img/universita-di-torino-italia.jpg" width="270px"></a>    | 
 | ----------- | ----------------------------------- | -------------------- |
 | <a href="program">**Registration Open**</a><br> HNR2026 Registration is open!  | <a href="program">**Program**</a><br>The keynote speaker will be <a href="https://scottbot.github.io/">Scott Weingart</a>. | <a href="practical">**Practical information**</a><br>Information about the the host city and institution. | 
 
