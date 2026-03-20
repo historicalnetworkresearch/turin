@@ -451,7 +451,7 @@ Aula S3 - Chair: Margherita Criveller
 
 ## 11:00–12:30 PARALLEL SESSIONS
 
-### SESSION 7-1: Explorations in HNR — Short Papers
+### SESSION 7-A: Explorations in HNR — Short Papers
 Aula S1 - Chair: Alessandra Celati
 <table>
   <tr>
@@ -476,7 +476,7 @@ Aula S1 - Chair: Alessandra Celati
   </tr>
 </table>
 
-### SESSION 7-2: Technical Challenges in Historical Networks — Short Papers
+### SESSION 7-B: Technical Challenges in Historical Networks — Short Papers
 Aula S2 - Chair: Margherita Criveller
 <table>
   <tr>
@@ -508,7 +508,7 @@ Aula S2 - Chair: Margherita Criveller
 
 ## 14:00–15:15 PARALLEL SESSIONS
 
-### SESSION 8-1: Print Culture and Information Flow — Long Papers
+### SESSION 8-A: Print Culture and Information Flow — Long Papers
 Aula S1 - Chair: TBD
 <table>
   <tr>
@@ -523,7 +523,7 @@ Aula S1 - Chair: TBD
   </tr>
 </table>
 
-### SESSION 8-2: Trade and Commercial Exchange — Long Papers
+### SESSION 8-B: Trade and Commercial Exchange — Long Papers
 Aula S2 - Chair: TBD
 <table>
   <tr>
@@ -538,7 +538,7 @@ Aula S2 - Chair: TBD
   </tr>
 </table>
 
-### SESSION 8-3: Medieval Material Culture in Circulation — Long Papers
+### SESSION 8-C: Medieval Material Culture in Circulation — Long Papers
 Aula S3 - Chair: TBD
 <table>
   <tr>
@@ -558,7 +558,7 @@ Aula S1
 <table>
  <tr>
     <td><b>Subject and speaker to be announced mid-April</b></td>
-    <td>To be announced</td>
+    <td>Speaker TBA</td>
     <td></td>
   </tr>
 </table>
