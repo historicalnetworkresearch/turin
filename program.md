@@ -35,7 +35,7 @@ and asking what the *network turn* has taught us about the sources that made it 
 
 <a href="https://nodegoat.net/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/nodegoat.png" style="width:170px"></a>
 
-**Pim van Bree** and **Geert Kessels**, founders of [nodegoat.net](https://nodegoat.net/). The creators of integrated tools designed for research into historical networks, Pim van Bree and Geert Kessels will leading an pre-conference workshop to demonstrate its potential. Registration is separate, see [workshop registration details here](https://forms.gle/3cdVbiHLoJKF8SVdA).
+**Pim van Bree** and **Geert Kessels**, founders of [nodegoat.net](https://nodegoat.net/). The creators of integrated tools designed for research into historical networks, Pim van Bree and Geert Kessels will leading a free pre-conference workshop to demonstrate its potential. Registration is separate from the conference, see <a href="https://forms.gle/3cdVbiHLoJKF8SVdA">workshop registration details</a>.
 
 Closing keynote speaker and round table discussants to be aannounced mid-April 2026.
 
