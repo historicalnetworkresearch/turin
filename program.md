@@ -43,7 +43,7 @@ ___
 
 # Monday 20 July
 
-Monday 20 July will consist of workhops in the morning, the first paper sessions in the afternoon, s, followed by the opening plenary keynote. Registration for the workshops is independent of the conference: [informations and registration here](/lausanne/workshops). 
+Monday 20 July will consist of workshops in the morning, welcome address and the first paper sessions in the afternoon, conluding at the end of the day with opening keynote. Registration for the workshops is independent of the conference: [informations and registration here](/lausanne/workshops). 
 
 ## 9:00-12:00 WORKSHOP 1 – NODEGOAT
 Aula S1
