@@ -15,18 +15,23 @@ cover: false
 ## The conference
 ### Registration
 
-Attendance is by registration only - this conference has no fees for attendance. Free registration will open March 1, 2026 at <a href="https://hnr2026.sciencesconf.org">https://hnr2026.sciencesconf.org</a>
+Attendance is by registration only - this conference has **no fees for attendance**. Free registration will open March 20, 2026 at <a href="https://hnr2026.sciencesconf.org">https://hnr2026.sciencesconf.org</a>.
+
+### The workshops 
+### Registration
+
+Workshop attendance is by registration only – it is **free** but registration is completely independent from the conference. Workshop registration is through this <a href="https://forms.gle/3cdVbiHLoJKF8SVdA">Google Form</a>.
 
 ### Venue
 
-The conference will be hosted at the University of Turin in the centre of old Turin, with facility details to be announced with the opening of registration. 
+The conference will be hosted at the <a href="https://maps.app.goo.gl/naT3hqazb62EjJiq9">University of Turin</a> in the centre of Turin at the <a href="https://maps.app.goo.gl/hsq3wHjju1ZYu6rE9">Complesso Aldo Moro</a>.
 
 ### Travel & Accommodation
 
-The University of Turin is located in the heart of the <a href="https://www.google.com/maps/place/Palazzo+Nuovo/@45.0685585,7.6937555,16.87z/data=!3m1!5s0x47886d632e706e61:0x3206cd8966e0d73b!4m15!1m8!3m7!1s0x47886d0cc3ed5cdf:0x405e67d473c94e0!2sTurin,+Metropolitan+City+of+Turin,+Italy!3b1!8m2!3d45.0703155!4d7.6868552!16zL20vMDdtZ3I!3m5!1s0x47886d6330fa0561:0x82cb8c09824e1107!8m2!3d45.0680338!4d7.6945305!16s%2Fg%2F1hc0grtm_">northern Italian city of Turin</a>, the capital of Piedmont. Turin features an international airport but is connected by short train and bus shuttles to the 3 large airports at Milan. Turin itself is well-connected to the rest of Italy, and to neighbouring France and Switzerland and beyond by an intense network of high-speed and local trains, as well as numerous bus networks.
+The University of Turin main campus is located in the heart of the northern Italian city of <a href="https://maps.app.goo.gl/cF4Hv88dtZzSzEoB9">Turin</a>, the capital of Piedmont. Turin features a small international airport but is connected by short train and bus shuttles to the 3 large airports at Milan. Turin itself is well-connected to the rest of Italy, and to neighbouring France and Switzerland and beyond by an intense network of high-speed and local trains, as well as numerous bus networks.
 
-Attendees of the conference will be able to take advantage of the low-cost university residences in the city, made available to travellers in the summer. Details to be announced by end of 2025.
+Attendees of the conference will be able to take advantage of the low-cost university residences in the city, made available to visiting scholars. The main website is <a href="https://www.edisu.piemonte.it/en/residences/university-residences/edisu-residences">EDISU website</a> (EDISO is the agency that manages university residences in the Piemont region). The site is available in Italian and English. The page of interest for HNR attendees is <a href="https://www.edisu.piemonte.it/en/residences/booked-stays/book-your-stay">Book Your Stay</a> which indicates the locations in best proximity to the main campus and contains instructions for reserving your room. **Important**: the room booking system requires non-Italians to create an account with password – the instructions are at the bottom of the login page.
 
 ### Online participation
 
-Online attendance will be announced with the registration above.
+The conference is in person papers only, however we are investigating whether virtual attendance can be enabled.
