@@ -23,7 +23,8 @@ The [book of abstracts](/turin/abstracts) will be published June 1, 2026.
  
 ## Speakers
 
-<a href="https://scottbot.github.io/"><img src="https://historicalnetworkresearch.github.io/turin/img/scott_weingart.jpg" style="width:100px"></a>
+<a href="https://scottbot.github.io/"><img src="https://historicalnetworkresearch.github.io/turin/img/weingart_circle_bw.png" style="width:100px"></a>
+
 **[Scott B. Weingart](https://scottbot.github.io/)**, Chief Technology Officer, Library of Virginia, co-author of 
 [*The Network Turn*](https://doi.org/10.1017/9781108866804) (Cambridge University Press, 2020) and 
 [*The Historian's Macroscope: Exploring Big Historical Data*](https://doi.org/10.1142/p981) 
