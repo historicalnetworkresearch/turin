@@ -9,14 +9,14 @@ cover: false
 
 # Program
 The program of the Historical Network Research Conference 2026 includes 38 long papers and 
-26 short papers across 22 sessions), 2 keynotes, 1 round table,  and 1 workshop. It will bring together 
+26 short papers (across 22 sessions), 2 keynotes, 1 round table,  and 1 workshop. It will bring together 
 colleagues from all continents. Attendance is free, but rehistr tion is required.
 * Free conference registration [here](https://hnr2026.sciencesconf.org/registration);
 * Workshop registration is entirely separate from conference registration, <a hre="https://forms.gle/3cdVbiHLoJKF8SVdA">register for Nodegoat work here<a>.
 
 The [book of abstracts](/turin/abstracts) will be published June 1, 2026. 
 
-<a href="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.pdf" target="_blank"><img src="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.jpg" style="width:300px"></a>
+<a href="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.pdf" target="_blank"><img src="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.jpg" style="width:600px"></a>
  
 ## Speakers
 
