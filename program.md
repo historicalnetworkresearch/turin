@@ -52,7 +52,7 @@ Aula S1
   </tr>
 </table>
 
-## 12:00-13:30 BADGE COLLECTION
+## 12:30-13:30 BADGE COLLECTION
 Roman Wall
 <table>
  <tr>
