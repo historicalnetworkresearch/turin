@@ -17,10 +17,6 @@ colleagues from all continents. Attendance is free, but rehistr tion is required
 The [book of abstracts](/turin/abstracts) will be published June 1, 2026. 
 
 <a href="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.pdf" target="_blank"><img src="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.jpg" style="width:300px"></a>
-
-https://historicalnetworkresearch.github.io/turin/img/
-<!--a href="https://historicalnetworkresearch.github.io/turin/program/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/hnr2024%20program3.png"></a-->
-
  
 ## Speakers
 
