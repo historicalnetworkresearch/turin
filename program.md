@@ -10,12 +10,11 @@ cover: false
 # Program
 The program of the Historical Network Research Conference 2026 includes 38 long papers and 
 26 short papers across 22 sessions), 2 keynotes, 1 round table,  and 1 workshop. It will bring together 
-colleagues from all continents. 
-Please note that [workshop registration](/turin/workshops) 
-is separate from the [conference registration](https://hnr2026.sciencesconf.org/) (but also free of charge). 
+colleagues from all continents. Attendance is free, but rehistr tion is required.
+* Free conference registration [here](https://hnr2026.sciencesconf.org/registration);
+* Workshop registration is entirely separate from conference registration, <a hre="https://forms.gle/3cdVbiHLoJKF8SVdA">register for Nodegoat work here<a>.
 
 The [book of abstracts](/turin/abstracts) will be published June 1, 2026. 
-
 
 
 <!--a href="https://historicalnetworkresearch.github.io/turin/program/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/hnr2024%20program3.png"></a-->
@@ -29,9 +28,7 @@ The [book of abstracts](/turin/abstracts) will be published June 1, 2026.
 [*The Network Turn*](https://doi.org/10.1017/9781108866804) (Cambridge University Press, 2020) and 
 [*The Historian's Macroscope: Exploring Big Historical Data*](https://doi.org/10.1142/p981) 
 (World Scientific Press, 2015). Scott Weingart will give the opening keynote, 
-reflecting on what it means to return to the source in historical network research — 
-revisiting the archival and evidential foundations of the field as it matures, 
-and asking what the *network turn* has taught us about the sources that made it possible.
+“Historical Source Criticism in the Network Turn”, reflections on how network thinking, source selection, and historical argument influence one another, and how awareness of that entanglement improves our scholarship. 
 
 <a href="https://nodegoat.net/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/nodegoat.png" style="width:170px"></a>
 
