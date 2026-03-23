@@ -384,7 +384,7 @@ ___
 ## 9:00–11:30 PARALLEL SESSIONS – LONG PAPERS
 
 ### SESSION 6-A: Detecting Communities in Historical Sources
-Aula S1 - Chair: TBD
+Aula S1 - Chair: Aliaksandra Valodzina
 <table>
   <tr>
     <td>Filtering the Emperor: Communication Networks around Maximilian I (1459–1519)</td>
