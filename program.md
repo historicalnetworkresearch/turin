@@ -278,7 +278,7 @@ Aula S1 - Chair: Jean-Paul Rehr
   </tr>
   <tr>
     <td>Strings that Tie: Network Modeling and Interactive Visualization of Musical Instrument Makers in Valdrighi's Nomocheliurgografia</td>
-    <td>Filippi Prévost De Bord Federico</td>
+    <td>Federico Filippi Prévost de Bordo</td>
     <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
   </tr>
 </table>
