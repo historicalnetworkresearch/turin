@@ -55,7 +55,7 @@ Roman Wall
 <table>
  <tr>
     <td><b>Collect your badge and programs!</b></td>
-    <td>HNR 2026 Turin Comittee</td>
+    <td>HNR 2026 Turin Committee</td>
     <td></td>
   </tr>
 </table>
