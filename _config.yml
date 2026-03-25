@@ -54,8 +54,8 @@ author:
 menu:
   - title:             Homepage
     url:               /
-  - title:             Call for Papers
-    url:               /cfp/
+  #- title:             Call for Papers
+  #  url:               /cfp/
   - title:             Program
     url:               /program/  
   - title:             Practical information
