@@ -20,7 +20,7 @@ The [book of abstracts](/turin/abstracts) will be published June 1, 2026.
 
 
 ## 2026 Conference Focus: Networks and their Sources
-The 2026 edition of the conference will see kind of papers regarding historical networks research, but the conference theme  **Sources**, exploring their role in historical network research.
+The 2026 edition of the conference will see a broad range (temporal and thematic) of papers embracing historical networks research, however the guiding conference theme is  **Sources**: an exploration of their role in, and relationship to, historical network research.
 
 Since the so-called *network turn*, formal network research has transformed scholarship across the sciences and humanities. Applied to history, it has expanded research methods, encouraged interdisciplinary dialogue, and opened new perspectives on both past and present. Yet historical sources remain challenging: they are often fragmented, incomplete, shaped by bias, or considered inadequate for network analysis.
 
