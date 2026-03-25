@@ -17,7 +17,15 @@ colleagues from all continents. Attendance is free, but rehistr tion is required
 The [book of abstracts](/turin/abstracts) will be published June 1, 2026. 
 
 <a href="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.pdf" target="_blank"><img src="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.jpg" style="width:600px"></a>
- 
+
+
+## 2026 Conference Focus: Networks and their Sources
+The 2026 edition of the conference will see kind of papers regarding historical networks research, but the conference theme  **Sources**, exploring their role in historical network research.
+
+Since the so-called *network turn*, formal network research has transformed scholarship across the sciences and humanities. Applied to history, it has expanded research methods, encouraged interdisciplinary dialogue, and opened new perspectives on both past and present. Yet historical sources remain challenging: they are often fragmented, incomplete, shaped by bias, or considered inadequate for network analysis.
+
+This conference invites participants to reflect on how sources — whether people, books, ideas, organizations, archaeological remains, archival documents, artworks, or other forms of evidence — make network research possible and meaningful. This conference aims to foster debate on the opportunities and limits that sources present, while encouraging innovative methodologies and cross-disciplinary perspectives.
+
 ## Speakers
 
 <a href="https://scottbot.github.io/"><img src="https://historicalnetworkresearch.github.io/turin/img/weingart_circle_bw.png" style="width:100px"></a>
