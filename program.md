@@ -10,11 +10,11 @@ cover: false
 # Program
 The program of the Historical Network Research Conference 2026 includes 38 long papers and 
 26 short papers (across 20 sessions), 2 keynotes, 1 round table,  and 1 workshop. It will bring together 
-colleagues from all continents. Attendance is free, but rehistr tion is required.
+colleagues from all continents. Attendance is free, but registration is required.
 * Free conference registration [here](https://hnr2026.sciencesconf.org/registration);
 * Workshop registration is entirely separate from conference registration, register for Nodegoat workshop <a hre="https://forms.gle/3cdVbiHLoJKF8SVdA">here<a>.
 
-The [book of abstracts](/turin/abstracts) will be published June 1, 2026. 
+The [book of abstracts](/turin/abstracts) will be published on June 1, 2026. 
 
 <a href="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.pdf" target="_blank"><img src="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.jpg" style="width:600px"></a>
 
@@ -38,7 +38,7 @@ This conference invites participants to reflect on how sources — whether peopl
 
 <a href="https://nodegoat.net/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/nodegoat.png" style="width:170px"></a>
 
-**Pim van Bree** and **Geert Kessels**, founders of [nodegoat.net](https://nodegoat.net/). The creators of integrated tools designed for research into historical networks, Pim van Bree and Geert Kessels will leading a free pre-conference workshop to demonstrate its potential. Registration is separate from the conference, see <a href="https://forms.gle/3cdVbiHLoJKF8SVdA">workshop registration details</a>.
+**Pim van Bree** and **Geert Kessels**, founders of [nodegoat.net](https://nodegoat.net/). The creators of integrated tools designed for research into historical networks, Pim van Bree and Geert Kessels will leading a free pre-conference workshop to demonstrate their potential. Registration is separate from the conference, see <a href="https://forms.gle/3cdVbiHLoJKF8SVdA">workshop registration details</a>.
 
 Closing keynote speaker and round table discussants to be aannounced mid-April 2026.
 
@@ -46,7 +46,7 @@ ___
 
 # Monday 20 July
 
-Monday 20 July will consist of workshops in the morning, welcome address and the first paper sessions in the afternoon, conluding at the end of the day with opening keynote. Registration for the workshops is independent of the conference: [information and registration here](https://forms.gle/3cdVbiHLoJKF8SVdA). 
+Monday 20 July will consist of workshops in the morning, a welcome address and the first paper sessions in the afternoon, concluding at the end of the day with the opening keynote. Registration for the workshops is independent of the conference: [information and registration here](https://forms.gle/3cdVbiHLoJKF8SVdA). 
 
 ## 9:00-12:00 WORKSHOP 1 – NODEGOAT
 Aula S1
@@ -196,7 +196,7 @@ Aula S2 - Chair: TBD
 Aula S1
 <table>
  <tr>
-    <td><b>Scott B. Weingart opens HNR2026 with his views on past, present, and future of sources in historical network research</b></td>
+    <td><b>Scott B. Weingart opens HNR2026 with his views on the past, present, and future of sources in historical network research</b></td>
     <td>Scott B. Weingart</td>
     <td></td>
   </tr>
