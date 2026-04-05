@@ -293,7 +293,7 @@ Aula S1 - Chair: Jean-Paul Rehr
 
 
 ### SESSION 4-B: Correspondences
-Aula S2 - Chair: TBD
+Aula S2 - Chair: Paul Guhennec
 <table>
   <tr>
     <td>Caesurae and Continuities: A Qualitative-Quantitative Analysis of a Correspondence Network between 1882–1926</td>
@@ -411,7 +411,7 @@ Aula S1 - Chair: Aliaksandra Valodzina
   </tr>
 </table>
 
-### SESSION 6-B (Long Papers): Migration and Mobility
+### SESSION 6-B: Migration and Mobility
 Aula S2 - Chair: TBD
 <table>
   <tr>
@@ -431,7 +431,7 @@ Aula S2 - Chair: TBD
   </tr>
 </table>
 
-### SESSION 6-C (Long Papers): Culture and the Cold War
+### SESSION 6-C: Culture and the Cold War
 Aula S3 - Chair: Margherita Criveller
 <table>
   <tr>
@@ -452,9 +452,9 @@ Aula S3 - Chair: Margherita Criveller
 </table>
 
 
-## 11:00–12:30 PARALLEL SESSIONS
+## 11:00–12:30 PARALLEL SESSIONS — SHORT PAPERS
 
-### SESSION 7-A: Explorations in HNR — Short Papers
+### SESSION 7-A: Explorations in HNR 
 Aula S1 - Chair: Alessandra Celati
 <table>
   <tr>
@@ -479,7 +479,7 @@ Aula S1 - Chair: Alessandra Celati
   </tr>
 </table>
 
-### SESSION 7-B: Technical Challenges in Historical Networks — Short Papers
+### SESSION 7-B: Technical Challenges in Historical Networks 
 Aula S2 - Chair: Margherita Criveller
 <table>
   <tr>
@@ -509,10 +509,10 @@ Aula S2 - Chair: Margherita Criveller
   </tr>
 </table>
 
-## 14:00–15:15 PARALLEL SESSIONS
+## 14:00–15:15 PARALLEL SESSIONS — LONG PAPERS
 
-### SESSION 8-A: Print Culture and Information Flow — Long Papers
-Aula S1 - Chair: TBD
+### SESSION 8-A: Print Culture and Information Flow 
+Aula S1 - Chair: Clay Foye
 <table>
   <tr>
     <td>Press, Power, Links and Public Spheres: Newspaper Networks in the Grand Duchy of Finland, 1867–1878</td>
@@ -526,7 +526,7 @@ Aula S1 - Chair: TBD
   </tr>
 </table>
 
-### SESSION 8-B: Trade and Commercial Exchange — Long Papers
+### SESSION 8-B: Trade and Commercial Exchange 
 Aula S2 - Chair: TBD
 <table>
   <tr>
@@ -541,7 +541,7 @@ Aula S2 - Chair: TBD
   </tr>
 </table>
 
-### SESSION 8-C: Medieval Material Culture in Circulation — Long Papers
+### SESSION 8-C: Medieval Material Culture in Circulation 
 Aula S3 - Chair: TBD
 <table>
   <tr>
