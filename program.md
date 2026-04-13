@@ -270,11 +270,6 @@ Aula S1 - Chair: Jean-Paul Rehr
     <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
   </tr>
   <tr>
-    <td>Integrating Generative LLMs into the Study of Middle-Period Chinese Elites</td>
-    <td>Chen Song</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
-  </tr>
-  <tr>
     <td>Metadata as Epistemic Devices: Towards Weak Semantic Networks in Digital Archives</td>
     <td>Manfredi Scanagatta</td>
     <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
