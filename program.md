@@ -328,11 +328,6 @@ Aula S1 - Chair: Tiziana Pasciuto
     <td>Seyma Aksoy</td>
     <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
   </tr>
-  <tr>
-    <td>The Voice and Networks of Soybean-Pioneers in Austria since the 1950s</td>
-    <td>Gabriel Tober</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
-  </tr>
 </table>
 
 ### SESSION 5-B: Print and Media Networks
