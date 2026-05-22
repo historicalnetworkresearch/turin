@@ -17,6 +17,9 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 
 ## Conference Organizers
 
+<a href="https://unito.academia.edu/JeanPaulRehr"><img src="../img/jean-paul_rehr.jpg" style="width:100px"></a>  
+**Jean-Paul Rehr** (Lead organizer) ([mail](mailto:jeanpaulbernard.rehr@unito.it))<br>Research Fellow, ERC StG Project DEMALPS - Department of Historical Studies, Università di Torino
+
 <a href="https://univr.academia.edu/Alessandracelati"><img src="../img/alessandra_celati.jpg" style="width:100px"></a>  
 **Alessandra Celati**  ([mail](mailto:alessandra.celati@unito.it))<br>Research Fellow - Department of Historical Studies and Digital History Lab, Università di Torino
 
@@ -26,5 +29,11 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 <a href="https://orcid.org/0000-0002-2440-2376"><img src="../img/tiziana_pasciuto.jpg" style="width:100px"></a>  
 **Tiziana Pasciuto** ([mail](mailto:tiziana.pasciuto@unito.it))<br>Research Fellow, ERC CoG Project REDMIX - Department of Historical Studies, Università di Torino
 
-<a href="https://unito.academia.edu/JeanPaulRehr"><img src="../img/jean-paul_rehr.jpg" style="width:100px"></a>  
-**Jean-Paul Rehr** (Lead organizer) ([mail](mailto:jeanpaulbernard.rehr@unito.it))<br>Research Fellow, ERC StG Project DEMALPS - Department of Historical Studies, Università di Torino
+
+
+## Conference Faculty Advisors
+**Valentina Fusari**<br>Associate Professor, PI – ERC CoG Project REDMIX
+
+**Marta Gravela**<br>Associate Professor, PI – ERC StG Project DemAlps
+
+**Marino Zabbio**<br>Professor
