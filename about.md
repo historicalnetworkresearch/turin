@@ -31,10 +31,10 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 
 
 
-## Conference Faculty Advisors (Università di Torino, Department of Historical Studies)
+## Conference Faculty Advisors
 
-**Valentina Fusari**<br>Professor, PI – ERC CoG Project REDMIX
+**Valentina Fusari**<br>Professor, Department of Historical Studies, Università di Torino, PI – ERC CoG Project REDMIX
 
-**Marta Gravela**<br>Associate Professor, PI – ERC StG Project DemAlps
+**Marta Gravela**<br>Associate Professor, Department of Historical Studies, Università di Torino, PI – ERC StG Project DemAlps
 
-**Marino Zabbia**<br>Associate Professor
+**Marino Zabbia**<br>Associate Professor, Department of Historical Studies, Università di Torino
