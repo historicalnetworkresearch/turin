@@ -31,8 +31,9 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 
 
 
-## Conference Faculty Advisors
-**Valentina Fusari**<br>Associate Professor, PI – ERC CoG Project REDMIX
+## Conference Faculty Advisors (Università di Torino, Department of Historical Studies)
+
+**Valentina Fusari**<br>Professor, PI – ERC CoG Project REDMIX
 
 **Marta Gravela**<br>Associate Professor, PI – ERC StG Project DemAlps
 
