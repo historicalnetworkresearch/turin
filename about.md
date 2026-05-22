@@ -37,4 +37,4 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 
 **Marta Gravela**<br>Associate Professor, PI – ERC StG Project DemAlps
 
-**Marino Zabbia**<br>Professor
+**Marino Zabbia**<br>Associate Professor
