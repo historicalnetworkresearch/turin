@@ -345,25 +345,26 @@ Aula S2 - Chair: TBD
   </tr>
 </table>
 
-### SESSION 5-C: Discovering Networks in the Sources
-Aula S3 - Chair: TBD
+### SESSION 5-C: Detecting Communities in Historical Sources
+Aula S1 - Chair: Aliaksandra Valodzina
 <table>
   <tr>
-    <td>Co-Mention Network Dynamics in 20th-Century Anglophone Philosophy</td>
-    <td>Gregor Bös, Felix Gaisbauer</td>
+    <td>Filtering the Emperor: Communication Networks around Maximilian I (1459–1519)</td>
+    <td>Marcella Tambuscio</td>
     <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
   </tr>
   <tr>
-    <td>Entries to Networks: Transforming Biographical Dictionaries into Knowledge Graphs with LLMs</td>
-    <td>Raphael Schlattmann, Aleksandra Kaye, Malte Vogl</td>
+    <td>From Mentions to Modularity: Co-Occurrence Networks in Ancient Greek and Latin Texts</td>
+    <td>Evelien De Graaf, Julie Nijs</td>
     <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
   </tr>
   <tr>
-    <td>Textual Networks of St. Venceslas: The Application of HTR and LLM Tools to Church Slavonic Hagiographical Sources</td>
-    <td>Olga Kalashnikova</td>
+    <td>The Invisible College of Medicine in Jagiellonian Courts: The Network of Giovanni Manardo's Medical Letters</td>
+    <td>Cihan Şimşek</td>
     <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
   </tr>
 </table>
+
 
 ## 16:00-17:30 HNR 2026 ROUND TABLE – CHALLENGES IN HNR AND ITS SOURCES
 Aula S1
@@ -381,22 +382,22 @@ ___
 
 ## 9:00–11:30 PARALLEL SESSIONS – LONG PAPERS
 
-### SESSION 6-A: Detecting Communities in Historical Sources
-Aula S1 - Chair: Aliaksandra Valodzina
+### SESSION 6-A: Discovering Networks in the Sources
+Aula S3 - Chair: TBD
 <table>
   <tr>
-    <td>Filtering the Emperor: Communication Networks around Maximilian I (1459–1519)</td>
-    <td>Marcella Tambuscio</td>
+    <td>Co-Mention Network Dynamics in 20th-Century Anglophone Philosophy</td>
+    <td>Gregor Bös, Felix Gaisbauer</td>
     <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
   </tr>
   <tr>
-    <td>From Mentions to Modularity: Co-Occurrence Networks in Ancient Greek and Latin Texts</td>
-    <td>Evelien De Graaf, Julie Nijs</td>
+    <td>Entries to Networks: Transforming Biographical Dictionaries into Knowledge Graphs with LLMs</td>
+    <td>Raphael Schlattmann, Aleksandra Kaye, Malte Vogl</td>
     <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
   </tr>
   <tr>
-    <td>The Invisible College of Medicine in Jagiellonian Courts: The Network of Giovanni Manardo's Medical Letters</td>
-    <td>Cihan Şimşek</td>
+    <td>Textual Networks of St. Venceslas: The Application of HTR and LLM Tools to Church Slavonic Hagiographical Sources</td>
+    <td>Olga Kalashnikova</td>
     <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
   </tr>
 </table>
