@@ -454,11 +454,6 @@ Aula S1 - Chair: Alessandra Celati
     <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
   </tr>
   <tr>
-    <td>Networks of Order: How Austria Reconstituted Power in 1848</td>
-    <td>Dimitra Grigoriou</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
-  </tr>
-  <tr>
     <td>Networks of the Social Question: Republican and Catholic Reformers in Belle Époque France (1890–1920)</td>
     <td>Tommaso Giordani</td>
     <td><button class="button button2" onclick="">PDF (avail. June 1)</button></td>
