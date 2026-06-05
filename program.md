@@ -12,7 +12,7 @@ The program of the Historical Network Research Conference 2026 includes 38 long 
 26 short papers (across 20 sessions), 2 keynotes, 1 round table,  and 1 workshop. It will bring together 
 colleagues from all continents. Attendance is free, but registration is required.
 * Free conference registration [here](https://hnr2026.sciencesconf.org/registration);
-* Workshop registration is entirely separate from conference registration, register for Nodegoat workshop <a hre="https://forms.gle/3cdVbiHLoJKF8SVdA">here<a>.
+* Workshop registration is entirely separate from conference registration, register for Nodegoat workshop <a href="https://forms.gle/3cdVbiHLoJKF8SVdA">here<a>.
 
 The [book of abstracts](/turin/abstracts) will be published on June 1, 2026. 
 
