@@ -91,12 +91,12 @@ Aula S1 - Chair: Tiziana Pasciuto
   <tr>
     <td>From Pyramid Town to Provincial Necropolis: Sources and Networks in Middle Kingdom Egypt</td>
     <td>Danijela Stefanovic</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="abstracts/1-A stefanovic, from pyramid town to provincial necropolis.pdf">PDF</button></td>
   </tr>
   <tr>
     <td>Historical Networks as Treasure Maps: Finding Relevant Sources with Aid from Attestation Networks</td>
     <td>Lena Tambs</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="1-A tambs, historical networks as treasure maps.pdf">PDF</button></td>
   </tr>
 </table>
 
