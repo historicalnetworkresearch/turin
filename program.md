@@ -91,7 +91,7 @@ Aula S1 - Chair: Tiziana Pasciuto
   <tr>
     <td>From Pyramid Town to Provincial Necropolis: Sources and Networks in Middle Kingdom Egypt</td>
     <td>Danijela Stefanovic</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-A_stefanovic_from_pyramid_town_to_provincial_necropolis.pdf','_blank')">PDF</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-A_stefanovic_from_pyramid town_to_provincial_necropolis.pdf','_blank')">PDF</button></td>
   </tr>
   <tr>
     <td>Historical Networks as Treasure Maps: Finding Relevant Sources with Aid from Attestation Networks</td>
