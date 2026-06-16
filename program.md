@@ -126,17 +126,17 @@ Aula S3 - Chair: Alessandra Celati
   <tr>
     <td>Gendered Knowledge Production in Romantic Correspondence Networks</td>
     <td>Elena Suárez Cronauer, Aline Deicke</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-C_cronauer_gendered_knowledge_production.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Narrated Networks: Social Network Analysis of the Memoirs of Countess Luise Charlotte von Schwerin (1684–1732)</td>
     <td>Selina Galka, Marcella Tambuscio</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-C_galka_narrated_networks.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Networks of Manuscript Production: Mapping Female Scribes and their Texts in Medieval Europe</td>
     <td>Estelle Gueville</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-C_gueville_networks_of_manuscript_production.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
