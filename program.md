@@ -86,7 +86,7 @@ Aula S1 - Chair: Tiziana Pasciuto
   <tr>
     <td>From Connoisseurship to Networks: Mobilities of Potters and Painters in South Italy Red-Figure Pottery Production (450–300 BCE)</td>
     <td>Marco Serino</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-A_serino_red-figure_pottery.pdf','_blank')">PDF (avail. June 15)</button></td>
   </tr>
   <tr>
     <td>From Pyramid Town to Provincial Necropolis: Sources and Networks in Middle Kingdom Egypt</td>
