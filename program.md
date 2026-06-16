@@ -86,17 +86,17 @@ Aula S1 - Chair: Tiziana Pasciuto
   <tr>
     <td>From Connoisseurship to Networks: Mobilities of Potters and Painters in South Italy Red-Figure Pottery Production (450–300 BCE)</td>
     <td>Marco Serino</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-A_serino_red-figure_pottery.pdf','_blank')">PDF</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-A_serino_red-figure_pottery.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>From Pyramid Town to Provincial Necropolis: Sources and Networks in Middle Kingdom Egypt</td>
     <td>Danijela Stefanovic</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-A_stefanovic_from_pyramid town_to_provincial_necropolis.pdf','_blank')">PDF</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-A_stefanovic_from_pyramid town_to_provincial_necropolis.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Historical Networks as Treasure Maps: Finding Relevant Sources with Aid from Attestation Networks</td>
     <td>Lena Tambs</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-A_tambs_historical_networks_as_treasure_maps.pdf','_blank')">PDF</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-A_tambs_historical_networks_as_treasure_maps.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
@@ -106,17 +106,17 @@ Aula S2 - Chair: Jean-Paul Rehr
   <tr>
     <td>Beyond Repression: Network Analysis and Social Dynamics in Medieval Inquisition Records</td>
     <td>Roberto Mussinatto</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-B_mussinatto_beyond_repression.pdf','_blank')">PDF</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-B_mussinatto_beyond_repression.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>From Testimony to Network: Modelling Reported Interactions in the Bologna Inquisition Register (1291–1310)</td>
     <td>Riccardo Katia, David Zbíral, Zoltán Brys, Robert L. J. Shaw</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-B_riccardo_from_testimony_to_network.pdf','_blank')">PDF</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-B_riccardo_from_testimony_to_network.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Gender bias and endogenous dynamics of denunciations in shaping knowledge about the heterodox</td>
     <td>Davor Salihovic, José Estévez</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-B_salihovic_gender_bias_and_endogenous_dynamics.pdf','_blank')">PDF</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-B_salihovic_gender_bias_and_endogenous_dynamics.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
