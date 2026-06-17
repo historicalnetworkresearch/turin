@@ -148,22 +148,22 @@ Aula S1 - Chair: Margherita Criveller
   <tr>
     <td>Constructing the Enemy: Network Analysis of Anti-Hussite Vocabulary in Late Medieval Diplomatic Correspondence</td>
     <td>Aliaksandra Valodzina</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-A_valodzina_constructing_the_enemy.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Investigating the Resilience of Waldensian Heterodoxy in Medieval Fribourg using Social Network Analysis</td>
     <td>Stanisław Banach</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-A_banach_Investigating_the_resilience_of_waldensian.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Networks under Surveillance: Source Bias and Historical Network Reconstruction in Revolutionary Iran</td>
     <td>Misagh Javadpour Depretis</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-A_javadpour_networks_under_surveillance.pdf','_blank')">Abstract (PDF))</button></td>
   </tr>
   <tr>
     <td>Watching Your Back: Identifying Organization and Movement Counter-Surveillance via FOIA Requests (1989–1992)</td>
     <td>Stephanie Zhang</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-A_zhang_watching_your_back.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
@@ -173,22 +173,22 @@ Aula S2 - Chair: TBD
   <tr>
     <td>Clustering Lead White References Across Graeco-Roman Genres: Visual Network Analysis from a TheSu XML Dataset</td>
     <td>Daniele Morrone</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-B_morrone_clustering_lead.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>From Sources to Networks: The TRACES Project and the Reconstruction of Mobility Systems from Antiquity to the Middle Ages</td>
     <td>Caterina Paola Venditti, Cristina Corsi, David Gherdevich</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-B_venditti_traces.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Exploring the Late Medieval Adriatic Wax Trade with Neo4j</td>
     <td>Vladimir Aleksic</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-B_aleksic_adriatic_wax_trade.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Reassessing Ancient Connectivity in Central Italy from Fragmentary Sources: A Multiscale Uncertainty-Aware Network Model</td>
     <td>Caterina Paola Venditti</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-B_venditti_ancient_connectivity.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
@@ -224,7 +224,7 @@ Aula S1 - Chair: Alessandra Celati
   <tr>
     <td>Nourished Among the Foremost Men: An Inquiry into Grosseteste's Intellectual Background</td>
     <td>Matthieu Statius</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="2-B_statius_nourished_among_the_foremost_men.pdf">PDF (avail. June 15)</button></td>
   </tr>
   <tr>
     <td>One Problem at a Time: Exploring the Network of Edo Japan's Mathematicians with Sangaku</td>
