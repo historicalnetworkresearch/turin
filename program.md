@@ -152,7 +152,7 @@ Aula S1 - Chair: Margherita Criveller
   </tr>
   <tr>
     <td>Investigating the Resilience of Waldensian Heterodoxy in Medieval Fribourg using Social Network Analysis</td>
-    <td>Stanisław Banach</td>
+    <td>Stanislaw Banach∗†1, David Zbiral, Zoltan Brys, Robert Shaw, and Reima Valimaki</td>
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-A_banach_Investigating_the_resilience_of_waldensian.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
