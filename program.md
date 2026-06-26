@@ -8,6 +8,7 @@ cover: false
 ---
 
 # Program
+
 The program of the Historical Network Research Conference 2026 includes 38 long papers and 
 26 short papers (across 20 sessions), 2 keynotes, 1 round table,  and 1 workshop. It will bring together 
 colleagues from all continents. Attendance is free, but registration is required.
@@ -266,23 +267,23 @@ Aula S1 - Chair: Jean-Paul Rehr
 <table>
   <tr>
     <td>From Bibliography to Network: Mapping the Contemporary Field of Leigh Hunt Studies (1987–2025)</td>
-    <td>Michael Sinatra</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td>Michael Sinatra, Anton Boudreau Ninkov, Kim Martin</td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-A_sinatra_leigh_hunt.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Metadata as Epistemic Devices: Towards Weak Semantic Networks in Digital Archives</td>
     <td>Manfredi Scanagatta</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-A_scanagatta_metadata.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Reconstructing Early Red Cross Communication Networks: LLM-Assisted Analysis of the Bulletin International (1884–1914)</td>
     <td>Riccardo Aramini</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-A_aramini_red_cross.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Strings that Tie: Network Modeling and Interactive Visualization of Musical Instrument Makers in Valdrighi's Nomocheliurgografia</td>
     <td>Federico Filippi Prévost de Bord</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-A_bord_strings.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
