@@ -153,7 +153,7 @@ Aula S1 - Chair: Margherita Criveller
   </tr>
   <tr>
     <td>Investigating the Resilience of Waldensian Heterodoxy in Medieval Fribourg using Social Network Analysis</td>
-    <td>Stanislaw Banach∗†1, David Zbiral, Zoltan Brys, Robert Shaw, and Reima Valimaki</td>
+    <td>Stanislaw Banach, David Zbiral, Zoltan Brys, Robert Shaw, and Reima Valimaki</td>
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-A_banach_Investigating_the_resilience_of_waldensian.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
@@ -225,7 +225,7 @@ Aula S1 - Chair: Alessandra Celati
   <tr>
     <td>Nourished Among the Foremost Men: An Inquiry into Grosseteste's Intellectual Background</td>
     <td>Matthieu Statius</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-B_venditti_ancient_connectivity.pdf3-A_statius_nourished_among_the_foremost_men.pdf','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/3-A_statius_nourished_among_the_foremost_men.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>One Problem at a Time: Exploring the Network of Edo Japan's Mathematicians with Sangaku</td>
@@ -294,22 +294,22 @@ Aula S2 - Chair: Paul Guhennec
   <tr>
     <td>Caesurae and Continuities: A Qualitative-Quantitative Analysis of a Correspondence Network between 1882–1926</td>
     <td>Manuel Schmidinger</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_schmidinger_caesurae.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>From Letters to Networks: Historical Network Analysis of Dutch Brazil through the ePistolarium</td>
-    <td>Marlon Alcantara</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td>Miguel Ravaiano, Mateus Oliveira, Lucas Laroca Pinto, Marlon Alcantara</td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_alcantara_brazil.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Reconstructing Visibility through Archival Sources: Grazia Pierantoni Mancini's Epistolary Networks</td>
     <td>Aurora Sturli</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_sturli_mancini.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>St. Petersburg Literacy Committee: Bipartite Networks of 1885 Correspondence</td>
     <td>Anna Britanova, Artem Petrov, Iuna Minnubaeva</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
