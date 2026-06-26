@@ -78,7 +78,7 @@ Aula S1
   </tr>
 </table>
 
-## 14:00–15:30 PARALLEL SESSIONS – LONG PAPERS
+## 14:00–15:30 PARALLEL SESSIONS 1 – LONG PAPERS
 
 ### SESSION 1-A: Objects, Traces and Ancient Connectivity 
 Aula S1 - Chair: Tiziana Pasciuto
@@ -140,7 +140,7 @@ Aula S3 - Chair: Alessandra Celati
   </tr>
 </table>
 
-## 16:00-17:15 PARALLEL SESSIONS – SHORT PAPERS
+## 16:00-17:15 PARALLEL SESSIONS 2 – SHORT PAPERS
 
 ### SESSION 2-A: Surveillance, Dissent and Control
 Aula S1 - Chair: Margherita Criveller
@@ -216,7 +216,7 @@ ___
 
 # Tuesday, 21 July
 
-## 9:00–10:30 PARALLEL SESSIONS – LONG PAPERS
+## 9:00–10:30 PARALLEL SESSIONS 3 – LONG PAPERS
 
 ### SESSION 3-A: The Circulation of Knowledge
 Aula S1 - Chair: Alessandra Celati
@@ -224,17 +224,17 @@ Aula S1 - Chair: Alessandra Celati
   <tr>
     <td>Nourished Among the Foremost Men: An Inquiry into Grosseteste's Intellectual Background</td>
     <td>Matthieu Statius</td>
-    <td><button class="button button2" onclick="2-B_statius_nourished_among_the_foremost_men.pdf">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-B_venditti_ancient_connectivity.pdf3-A_statius_nourished_among_the_foremost_men.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>One Problem at a Time: Exploring the Network of Edo Japan's Mathematicians with Sangaku</td>
     <td>Antonia Karaisl</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/3-A_karaisl_one_problem_at_a_time.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>The BorGal Project: What's Next?</td>
     <td>Federica Favino</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/3-A_favino_borgal.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
@@ -244,22 +244,22 @@ Aula S2 - Chair: Tiziana Pasciuto
   <tr>
     <td>Navigating Institutional Archives of Suisse Romande Architecture Competitions</td>
     <td>Clay Foye, Paul Guhennec</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/3-B_foye_suise_romande.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Network Analysis for Historical Music Research: Deep-Mapping Musical Space in Milan (1958–1962)</td>
     <td>Martin Nicastro</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/3-B_nicastro_musical_space in_milan.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Politics behind the Score: The Institutionalization of the São Paulo Municipal Symphony Orchestra</td>
     <td>Breno Ampáro</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/3-B_amparo_score.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
 
-## 11:00–12:30 PARALLEL SESSIONS – SHORT PAPERS
+## 11:00–12:30 PARALLEL SESSIONS 4 – SHORT PAPERS
 
 ### SESSION 4-A: Machine Language and Historical Sources
 Aula S1 - Chair: Jean-Paul Rehr
@@ -313,7 +313,7 @@ Aula S2 - Chair: Paul Guhennec
 </table>
 
 
-## 14:00–15:30 PARALLEL SESSIONS – LONG PAPERS
+## 14:00–15:30 PARALLEL SESSIONS 5 – LONG PAPERS
 
 ### SESSION 5-A: Communities and the Archive
 Aula S1 - Chair: Tiziana Pasciuto
@@ -380,7 +380,7 @@ ___
 
 # Wednesday, 22 July
 
-## 9:00–11:30 PARALLEL SESSIONS – LONG PAPERS
+## 9:00–11:30 PARALLEL SESSIONS 6 – LONG PAPERS
 
 ### SESSION 6-A: Discovering Networks in the Sources
 Aula S3 - Chair: TBD
@@ -443,7 +443,7 @@ Aula S3 - Chair: Margherita Criveller
 </table>
 
 
-## 11:00–12:30 PARALLEL SESSIONS — SHORT PAPERS
+## 11:00–12:30 PARALLEL SESSIONS 7 — SHORT PAPERS
 
 ### SESSION 7-A: Explorations in HNR 
 Aula S1 - Chair: Alessandra Celati
@@ -495,7 +495,7 @@ Aula S2 - Chair: Margherita Criveller
   </tr>
 </table>
 
-## 14:00–15:15 PARALLEL SESSIONS — LONG PAPERS
+## 14:00–15:15 PARALLEL SESSIONS 8 — LONG PAPERS
 
 ### SESSION 8-A: Print Culture and Information Flow 
 Aula S1 - Chair: Clay Foye
