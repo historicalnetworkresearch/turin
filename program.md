@@ -309,7 +309,7 @@ Aula S2 - Chair: Paul Guhennec
   <tr>
     <td>St. Petersburg Literacy Committee: Bipartite Networks of 1885 Correspondence</td>
     <td>Anna Britanova, Artem Petrov, Iuna Minnubaeva</td>
-    td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
@@ -322,12 +322,12 @@ Aula S1 - Chair: Tiziana Pasciuto
   <tr>
     <td>Hidden Voices in the Archive: African Agency and Missionary Networks in Gold Coast</td>
     <td>Pietro Fasola</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Mapping Academic Exile: A Multi-Layer Network Model of German Refugee Scholars in Türkiye (1933–1955)</td>
     <td>Seyma Aksoy</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
@@ -337,12 +337,12 @@ Aula S2 - Chair: TBD
   <tr>
     <td>Echoes from the Periphery: Modelling Media Networks of the 1969 Apollo Landing in Authoritarian Portugal</td>
     <td>Rafael Prezado</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Visual Network Analysis of Flemish Literary Periodicals (1966–1969): Tracing Literary Dynamics Beyond the Establishment–Underground Dichotomy</td>
     <td>Jan Lampaert</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
@@ -352,17 +352,17 @@ Aula S1 - Chair: Aliaksandra Valodzina
   <tr>
     <td>Filtering the Emperor: Communication Networks around Maximilian I (1459–1519)</td>
     <td>Marcella Tambuscio</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>From Mentions to Modularity: Co-Occurrence Networks in Ancient Greek and Latin Texts</td>
     <td>Evelien De Graaf, Julie Nijs</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>The Invisible College of Medicine in Jagiellonian Courts: The Network of Giovanni Manardo's Medical Letters</td>
     <td>Cihan Şimşek</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
