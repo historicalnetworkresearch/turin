@@ -351,29 +351,55 @@ Aula S1 - Chair: Aliaksandra Valodzina
 <table>
   <tr>
     <td>Filtering the Emperor: Communication Networks around Maximilian I (1459–1519)</td>
-    <td>Marcella Tambuscio</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
+    <td>Marcella Tambuscio, Suzana Sagadin, Richard Hadden, Georg Vogeler</td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-C_tambuscio_maximilian.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>From Mentions to Modularity: Co-Occurrence Networks in Ancient Greek and Latin Texts</td>
     <td>Evelien De Graaf, Julie Nijs</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-C_de_graaf_ancient.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>The Invisible College of Medicine in Jagiellonian Courts: The Network of Giovanni Manardo's Medical Letters</td>
     <td>Cihan Şimşek</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-C_simsek_manardo.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
+## 16:00–17:30 PARALLEL SESSIONS 6 – LONG PAPERS
 
-## 16:00-17:30 HNR 2026 ROUND TABLE – CHALLENGES IN HNR AND ITS SOURCES
-Aula S1
+### SESSION 6-A: Culture and the Cold War
+Aula S1 - Chair: Margherita Criveller
 <table>
- <tr>
-    <td><b>A round table discussing Scott Weingart's opening keynote</b></td>
-    <td>Scott B. Weingart and discussants (names forthcoming)</td>
-    <td></td>
+  <tr>
+    <td>Bankers, Businessmen and the Cultural Cold War: Networks of Transatlantic Cultural Associationism</td>
+    <td>Giulia Clarizia</td>
+    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+  </tr>
+  <tr>
+    <td>Mapping the History of European Nuclear Fusion Cooperation: Combining Archival and Publication Data</td>
+    <td>Malte Vogl, Roberto Lalli</td>
+    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+  </tr>
+  <tr>
+    <td>Weaving Influence: Network Dynamics of U.S. PL-480 Food Aid in Morocco during the Cold War (1957–1965)</td>
+    <td>Hanane Haichami</td>
+    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+  </tr>
+</table>
+
+### SESSION 6-B: Medieval Material Culture in Circulation 
+Aula S2 - Chair: TBD
+<table>
+  <tr>
+    <td>Mapping Monastic Networks: The TITULI Project and the Circulation of Medieval Mortuary Rolls (8th–16th c.)</td>
+    <td>Davide Gherdevich</td>
+    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+  </tr>
+  <tr>
+    <td>NOMISMATA: Exploring Numismatic Networks Emerging from a Source-Driven Database</td>
+    <td>Giorgio Donato, Pim Van Bree, Geert Kessels</td>
+    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
   </tr>
 </table>
 
@@ -381,9 +407,9 @@ ___
 
 # Wednesday, 22 July
 
-## 9:00–11:30 PARALLEL SESSIONS 6 – LONG PAPERS
+## 9:00–11:30 PARALLEL SESSIONS 7 – LONG PAPERS
 
-### SESSION 6-A: Discovering Networks in the Sources
+### SESSION 7-A: Discovering Networks in the Sources
 Aula S3 - Chair: TBD
 <table>
   <tr>
@@ -403,7 +429,7 @@ Aula S3 - Chair: TBD
   </tr>
 </table>
 
-### SESSION 6-B: Migration and Mobility
+### SESSION 7-B: Migration and Mobility
 Aula S2 - Chair: TBD
 <table>
   <tr>
@@ -423,30 +449,10 @@ Aula S2 - Chair: TBD
   </tr>
 </table>
 
-### SESSION 6-C: Culture and the Cold War
-Aula S3 - Chair: Margherita Criveller
-<table>
-  <tr>
-    <td>Bankers, Businessmen and the Cultural Cold War: Networks of Transatlantic Cultural Associationism</td>
-    <td>Giulia Clarizia</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
-  </tr>
-  <tr>
-    <td>Mapping the History of European Nuclear Fusion Cooperation: Combining Archival and Publication Data</td>
-    <td>Malte Vogl, Roberto Lalli</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
-  </tr>
-  <tr>
-    <td>Weaving Influence: Network Dynamics of U.S. PL-480 Food Aid in Morocco during the Cold War (1957–1965)</td>
-    <td>Hanane Haichami</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
-  </tr>
-</table>
 
+## 11:00–12:30 PARALLEL SESSIONS 8 — SHORT PAPERS
 
-## 11:00–12:30 PARALLEL SESSIONS 7 — SHORT PAPERS
-
-### SESSION 7-A: Explorations in HNR 
+### SESSION 8-A: Explorations in HNR 
 Aula S1 - Chair: Alessandra Celati
 <table>
   <tr>
@@ -466,7 +472,7 @@ Aula S1 - Chair: Alessandra Celati
   </tr>
 </table>
 
-### SESSION 7-B: Technical Challenges in Historical Networks 
+### SESSION 8-B: Technical Challenges in Historical Networks 
 Aula S2 - Chair: Margherita Criveller
 <table>
   <tr>
@@ -496,9 +502,9 @@ Aula S2 - Chair: Margherita Criveller
   </tr>
 </table>
 
-## 14:00–15:15 PARALLEL SESSIONS 8 — LONG PAPERS
+## 14:00–15:15 PARALLEL SESSIONS 9 — LONG PAPERS
 
-### SESSION 8-A: Print Culture and Information Flow 
+### SESSION 9-A: Print Culture and Information Flow 
 Aula S1 - Chair: Clay Foye
 <table>
   <tr>
@@ -513,7 +519,7 @@ Aula S1 - Chair: Clay Foye
   </tr>
 </table>
 
-### SESSION 8-B: Trade and Commercial Exchange 
+### SESSION 9-B: Trade and Commercial Exchange 
 Aula S2 - Chair: TBD
 <table>
   <tr>
@@ -528,32 +534,18 @@ Aula S2 - Chair: TBD
   </tr>
 </table>
 
-### SESSION 8-C: Medieval Material Culture in Circulation 
-Aula S3 - Chair: TBD
-<table>
-  <tr>
-    <td>Mapping Monastic Networks: The TITULI Project and the Circulation of Medieval Mortuary Rolls (8th–16th c.)</td>
-    <td>Davide Gherdevich</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
-  </tr>
-  <tr>
-    <td>NOMISMATA: Exploring Numismatic Networks Emerging from a Source-Driven Database</td>
-    <td>Giorgio Donato, Pim Van Bree, Geert Kessels</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
-  </tr>
-</table>
 
-## 15:30-16:30 HNR 2026 CLOSING KEYNOTE
+## 15:30-16:30 HNR 2026 ROUND TABLE – CHALLENGES IN HNR AND ITS SOURCES
 Aula S1
 <table>
  <tr>
-    <td><b>Subject and speaker to be announced mid-April</b></td>
-    <td>Speaker TBA</td>
+    <td><b>A round table discussing sources and practices in histtorical network analysis</b></td>
+    <td>Scott B. Weingart (Library of Virginia), Amanda Maddin (Georage Mason), Federica Favino (Univ. Roma La Sapienza)</td>
     <td></td>
   </tr>
 </table>
 
-## 16:30-16:45 HNR 2026 CLOSING REMARKS
+## 16:30-16:50 HNR 2026 CLOSING REMARKS
 Aula S1
 <table>
  <tr>
