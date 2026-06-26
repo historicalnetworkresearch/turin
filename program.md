@@ -337,12 +337,12 @@ Aula S2 - Chair: TBD
   <tr>
     <td>Echoes from the Periphery: Modelling Media Networks of the 1969 Apollo Landing in Authoritarian Portugal</td>
     <td>Rafael Prezado</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-B_prezado_apollo.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Visual Network Analysis of Flemish Literary Periodicals (1966–1969): Tracing Literary Dynamics Beyond the Establishment–Underground Dichotomy</td>
     <td>Jan Lampaert</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-B_lampaert_underground.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
