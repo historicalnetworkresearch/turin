@@ -374,18 +374,18 @@ Aula S1 - Chair: Margherita Criveller
   <tr>
     <td>Bankers, Businessmen and the Cultural Cold War: Networks of Transatlantic Cultural Associationism</td>
     <td>Giulia Clarizia</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/6-A_clarizia_bankers.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Mapping the History of European Nuclear Fusion Cooperation: Combining Archival and Publication Data</td>
     <td>Malte Vogl, Roberto Lalli</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/6-A_vogl_fusion.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   </tr>
   <tr>
     <td>Weaving Influence: Network Dynamics of U.S. PL-480 Food Aid in Morocco during the Cold War (1957–1965)</td>
     <td>Hanane Haichami</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/6-A_hanane_weaving.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   </tr>
 </table>
