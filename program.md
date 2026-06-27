@@ -450,19 +450,19 @@ Aula S2 - Chair: TBD
   <tr>
     <td>A Spatial Network Study of Itinerant Performers' Passports in 18th- and 19th-Century France</td>
     <td>Martin Grandjean, Johanna Daniel</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/7-B_grandjean_performers.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   </tr>
   <tr>
     <td>From the Alpine Woods to Transylvania: Emigration of Italian Forestry Workers to Austria-Hungary (1850s–1914)</td>
     <td>Vincenzo Colaprice, Csongor Jánosi, Claudio Lorenzini</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/7-B_colaprice_alpine.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   </tr>
   <tr>
     <td>Tracing Multi-Religiosity and Interethnic Networks among Iranian Communities in the Red Sea (19th–20th centuries)</td>
     <td>Sara Zanotta, Tiziana Pasciuto</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/7-B_zanotta_red_sea.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   </tr>
 </table>
