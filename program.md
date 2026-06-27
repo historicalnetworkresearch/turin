@@ -395,14 +395,14 @@ Aula S2 - Chair: TBD
 <table>
   <tr>
     <td>Mapping Monastic Networks: The TITULI Project and the Circulation of Medieval Mortuary Rolls (8th–16th c.)</td>
-    <td>Davide Gherdevich</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+    <td>Davide Gherdevich, Eric Mermet, Alice Nappa, Giulia Mezzadri, Julien Randon-Furling</td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/6-B_gherdevich_tituli.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   </tr>
   <tr>
     <td>NOMISMATA: Exploring Numismatic Networks Emerging from a Source-Driven Database</td>
     <td>Giorgio Donato, Pim Van Bree, Geert Kessels</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/6-B_donato_nomismata.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   </tr>
 </table>
@@ -411,7 +411,7 @@ Aula S2 - Chair: TBD
 Aula S1
 <table>
  <tr>
-    <td><b>A presentation of recent development in Gephi and the community</b></td>
+    <td><b>A presentation of recent developments in Gephi (v0.11) and the Gephi community</b></td>
     <td>Martin Grandjean</td>
     <td></td>
   </tr>
