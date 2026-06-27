@@ -374,17 +374,19 @@ Aula S1 - Chair: Margherita Criveller
   <tr>
     <td>Bankers, Businessmen and the Cultural Cold War: Networks of Transatlantic Cultural Associationism</td>
     <td>Giulia Clarizia</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Mapping the History of European Nuclear Fusion Cooperation: Combining Archival and Publication Data</td>
     <td>Malte Vogl, Roberto Lalli</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
   <tr>
     <td>Weaving Influence: Network Dynamics of U.S. PL-480 Food Aid in Morocco during the Cold War (1957–1965)</td>
     <td>Hanane Haichami</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
 </table>
 
@@ -394,15 +396,26 @@ Aula S2 - Chair: TBD
   <tr>
     <td>Mapping Monastic Networks: The TITULI Project and the Circulation of Medieval Mortuary Rolls (8th–16th c.)</td>
     <td>Davide Gherdevich</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
   <tr>
     <td>NOMISMATA: Exploring Numismatic Networks Emerging from a Source-Driven Database</td>
     <td>Giorgio Donato, Pim Van Bree, Geert Kessels</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
 </table>
 
+## 17:00-17:45 PRESENTATION - WHAT'S NEW IN GEPHI?
+Aula S1
+<table>
+ <tr>
+    <td><b>A presentation of recent development in Gephi and the community</b></td>
+    <td>Martin Grandjean</td>
+    <td></td>
+  </tr>
+</table>
 ___
 
 # Wednesday, 22 July
@@ -415,17 +428,19 @@ Aula S3 - Chair: TBD
   <tr>
     <td>Co-Mention Network Dynamics in 20th-Century Anglophone Philosophy</td>
     <td>Gregor Bös, Felix Gaisbauer</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Entries to Networks: Transforming Biographical Dictionaries into Knowledge Graphs with LLMs</td>
     <td>Raphael Schlattmann, Aleksandra Kaye, Malte Vogl</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
   <tr>
     <td>Textual Networks of St. Venceslas: The Application of HTR and LLM Tools to Church Slavonic Hagiographical Sources</td>
     <td>Olga Kalashnikova</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
 </table>
 
@@ -435,17 +450,20 @@ Aula S2 - Chair: TBD
   <tr>
     <td>A Spatial Network Study of Itinerant Performers' Passports in 18th- and 19th-Century France</td>
     <td>Martin Grandjean, Johanna Daniel</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
   <tr>
     <td>From the Alpine Woods to Transylvania: Emigration of Italian Forestry Workers to Austria-Hungary (1850s–1914)</td>
     <td>Vincenzo Colaprice, Csongor Jánosi, Claudio Lorenzini</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
   <tr>
     <td>Tracing Multi-Religiosity and Interethnic Networks among Iranian Communities in the Red Sea (19th–20th centuries)</td>
     <td>Sara Zanotta, Tiziana Pasciuto</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
 </table>
 
@@ -458,17 +476,20 @@ Aula S1 - Chair: Alessandra Celati
   <tr>
     <td>Modeling Fragmented Prosopography: Historical Network Analysis and Archival Constraints in the 16th-Century Greek Community of Venice</td>
     <td>Eleni Makrygiorgou</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
   <tr>
     <td>Networks of the Social Question: Republican and Catholic Reformers in Belle Époque France (1890–1920)</td>
     <td>Tommaso Giordani</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
   <tr>
     <td>The Material Network of Empire: Household Objects, Sociability, and Mobility in Colonial India</td>
     <td>Rohini Panicker</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
 </table>
 
@@ -478,27 +499,32 @@ Aula S2 - Chair: Margherita Criveller
   <tr>
     <td>Hurry Slowly: The Jesuit Catalogs Database and Obstacles to Automation</td>
     <td>David Thomas, Alessandro Corsi</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
   <tr>
     <td>Researching Historical-Biographical Information in Digital Scholarly Editions through Event-Oriented Affiliation Networks</td>
     <td>Timo Frühwirth</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
   <tr>
     <td>Studying News Coverage through Embeddings Networks: Opportunities and Challenges for Historical Research</td>
     <td>Martin Grandjean</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
   <tr>
     <td>The Feature Networks of High Medieval Writing</td>
     <td>Celis Tittse</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
   <tr>
     <td>Unveiling Sentiment Weighted Network Analysis (SWENA) with ERGM in Ottoman-Turkish Memoirs: A Hybrid Causal Analysis</td>
     <td>Mustafa Ilter</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
 </table>
 
@@ -510,12 +536,14 @@ Aula S1 - Chair: Clay Foye
   <tr>
     <td>Press, Power, Links and Public Spheres: Newspaper Networks in the Grand Duchy of Finland, 1867–1878</td>
     <td>Aytaç Yürükçü</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
   <tr>
     <td>The Flow of Information in European Book Publishing, 1500–1800</td>
     <td>Peeter Tinits</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
 </table>
 
@@ -525,12 +553,14 @@ Aula S2 - Chair: TBD
   <tr>
     <td>Disclosing Counterfeit Networks: The International Association of Museum Officials in Defence Against Counterfeiting and Improper Trade Practices, c. 1900–1945</td>
     <td>Jaap Geraerts, Demival Vasques Filho</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
   <tr>
     <td>Harmonizing Historical Trade Using Geopolitical Data: A Multilayer Network Approach to Bilateral Flows, 1830–1938</td>
     <td>Paul Girard, Béatrice Dedinger, Guillaume Daudin, Youssef Ghallada</td>
-    <td><button class="button button2" onclick="">PDF (avail. June 15)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+  </tr>
   </tr>
 </table>
 
