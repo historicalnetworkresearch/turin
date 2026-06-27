@@ -427,19 +427,19 @@ Aula S3 - Chair: TBD
 <table>
   <tr>
     <td>Co-Mention Network Dynamics in 20th-Century Anglophone Philosophy</td>
-    <td>Gregor Bös, Felix Gaisbauer</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+    <td>Gregor Bös, Felix Gaisbauer, Eugenio Petrovich, Sander Verhaegh</td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/7-A_bos_anglophone.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Entries to Networks: Transforming Biographical Dictionaries into Knowledge Graphs with LLMs</td>
     <td>Raphael Schlattmann, Aleksandra Kaye, Malte Vogl</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/7-A_schlattmann_biodict.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   </tr>
   <tr>
-    <td>Textual Networks of St. Venceslas: The Application of HTR and LLM Tools to Church Slavonic Hagiographical Sources</td>
+    <td>Textual Networks of St. Wenceslas: The Application of HTR and LLM Tools to Church Slavonic Hagiographical Sources</td>
     <td>Olga Kalashnikova</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/7-A_kalashnikova_wenceslas.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   </tr>
 </table>
