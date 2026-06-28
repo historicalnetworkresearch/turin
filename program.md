@@ -15,7 +15,7 @@ The program of the Historical Network Research Conference 2026 includes 38 long 
 
 The [book of abstracts](/turin/abstracts) is available [here](/turin/abstracts/HNR2026_book_of_abstracts.pdf).
 
-<a href="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.pdf" target="_blank"><img src="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.jpg" style="width:600px"></a>
+<a href="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-06-28.pdf" target="_blank"><img src="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-06-28.jpg" style="width:600px"></a>
 
 
 ## 2026 Conference Focus: Networks and their Sources
@@ -38,8 +38,6 @@ This conference invites participants to reflect on how sources — whether peopl
 <a href="https://nodegoat.net/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/nodegoat.png" style="width:170px"></a>
 
 **Pim van Bree** and **Geert Kessels**, founders of [nodegoat.net](https://nodegoat.net/). The creators of integrated tools designed for research into historical networks, Pim van Bree and Geert Kessels will leading a free pre-conference workshop to demonstrate their potential. Registration is separate from the conference, see <a href="https://forms.gle/3cdVbiHLoJKF8SVdA">workshop registration details</a>.
-
-Closing keynote speaker and round table discussants to be aannounced mid-April 2026.
 
 ___
 
