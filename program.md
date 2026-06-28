@@ -547,7 +547,7 @@ Aula S1
 <table>
  <tr>
     <td><b>A round table discussing sources and practices in histtorical network analysis</b></td>
-    <td>Scott B. Weingart (Library of Virginia), Amanda Maddin (Georage Mason), Federica Favino (Univ. Roma La Sapienza)</td>
+    <td>Roundtable: Sources and Historical Network Research Practices - Scott Weingart (Library of Virginia (USA), Amanda Madden (George Mason, USA), Federica Favino (University of Rome 'La Sapienza') organized by Alessandra Celati (Univ. Torino) and Margherita Criveller (Univ. Milano)</td>
     <td></td>
   </tr>
 </table>
@@ -556,7 +556,7 @@ Aula S1
 Aula S1
 <table>
  <tr>
-    <td><b>CLosing remarks from the HNR2026 committee and the HNR Community Board</b></td>
+    <td><b>Closing remarks from the HNR2026 committee and the HNR Community Board</b></td>
     <td>HNR2026 Organizers & HNR Community Board</td>
     <td></td>
   </tr>
