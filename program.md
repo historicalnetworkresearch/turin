@@ -9,7 +9,7 @@ cover: false
 
 # Program
 
-The program of the Historical Network Research Conference 2026 includes 38 long papers and 26 short papers (across 20 sessions), opening keynote, round table, workshop, and special presentations. It will bring together colleagues from all continents. Attendance is free, but registration is required.
+The program of the Historical Network Research Conference 2026 includes 38 long papers and 26 short papers (across 20 sessions), opening keynote, round table, and workshops. It will bring together colleagues from all continents. Attendance is free, but registration is required.
 * Free conference registration [here](https://hnr2026.sciencesconf.org/registration);
 * Workshop registration is entirely separate from conference registration, register for Nodegoat workshop <a href="https://forms.gle/3cdVbiHLoJKF8SVdA">here<a>.
 
@@ -345,7 +345,7 @@ Aula S2 - Chair: TBD
 </table>
 
 ### SESSION 5-C: Detecting Communities in Historical Sources
-Aula S1 - Chair: Aliaksandra Valodzina
+Aula S3 - Chair: Aliaksandra Valodzina
 <table>
   <tr>
     <td>Filtering the Emperor: Communication Networks around Maximilian I (1459–1519)</td>
@@ -401,7 +401,8 @@ Aula S2 - Chair: TBD
   </tr>
 </table>
 
-## 17:00-17:45 PRESENTATION - WHAT'S NEW IN GEPHI?
+<!--
+## 17:45-18:15 PRESENTATION - WHAT'S NEW IN GEPHI?
 Aula S1
 <table>
  <tr>
@@ -410,6 +411,7 @@ Aula S1
     <td></td>
   </tr>
 </table>
+-->
 ___
 
 # Wednesday, 22 July
@@ -417,7 +419,7 @@ ___
 ## 9:00–11:30 PARALLEL SESSIONS 7 – LONG PAPERS
 
 ### SESSION 7-A: Discovering Networks in the Sources
-Aula S3 - Chair: Jean-Paul Rehr
+Aula S1 - Chair: Jean-Paul Rehr
 <table>
   <tr>
     <td>Co-Mention Network Dynamics in 20th-Century Anglophone Philosophy</td>
@@ -509,7 +511,7 @@ Aula S2 - Chair: Margherita Criveller
   </tr>
 </table>
 
-## 14:00–15:15 PARALLEL SESSIONS 9 — LONG PAPERS
+## 14:00–15:00 PARALLEL SESSIONS 9 — LONG PAPERS
 
 ### SESSION 9-A: Print Culture and Information Flow 
 Aula S1 - Chair: Clay Foye
@@ -542,7 +544,7 @@ Aula S2 - Chair: TBD
 </table>
 
 
-## 15:30-16:30 HNR 2026 ROUND TABLE – CHALLENGES IN HNR AND ITS SOURCES
+## 15:15-16:45 HNR 2026 ROUND TABLE – CHALLENGES IN HNR AND ITS SOURCES
 Aula S1
 <table>
  <tr>
@@ -552,7 +554,7 @@ Aula S1
   </tr>
 </table>
 
-## 16:30-16:50 HNR 2026 CLOSING REMARKS
+## 16:45-17:00 HNR 2026 CLOSING REMARKS
 Aula S1
 <table>
  <tr>
