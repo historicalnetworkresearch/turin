@@ -9,13 +9,11 @@ cover: false
 
 # Program
 
-The program of the Historical Network Research Conference 2026 includes 38 long papers and 
-26 short papers (across 20 sessions), 2 keynotes, 1 round table,  and 1 workshop. It will bring together 
-colleagues from all continents. Attendance is free, but registration is required.
+The program of the Historical Network Research Conference 2026 includes 38 long papers and 26 short papers (across 20 sessions), Opening keynote, Round table, Workshop , and special presentations. It will bring together colleagues from all continents. Attendance is free, but registration is required.
 * Free conference registration [here](https://hnr2026.sciencesconf.org/registration);
 * Workshop registration is entirely separate from conference registration, register for Nodegoat workshop <a href="https://forms.gle/3cdVbiHLoJKF8SVdA">here<a>.
 
-The [book of abstracts](/turin/abstracts) will be published on June 1, 2026. 
+The [book of abstracts](/turin/abstracts) is available [here](/turin/abstracts/HNR2026_book_of_abstracts.pdf).
 
 <a href="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.pdf" target="_blank"><img src="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-03-21.jpg" style="width:600px"></a>
 
@@ -492,22 +490,22 @@ Aula S2 - Chair: Margherita Criveller
   <tr>
     <td>Researching Historical-Biographical Information in Digital Scholarly Editions through Event-Oriented Affiliation Networks</td>
     <td>Timo Frühwirth</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_fruhwirth_event-oriented.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Studying News Coverage through Embeddings Networks: Opportunities and Challenges for Historical Research</td>
     <td>Martin Grandjean</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_grandjean_embeddings.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>The Feature Networks of High Medieval Writing</td>
     <td>Celis Tittse</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_thomas_jesuit.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Unveiling Sentiment Weighted Network Analysis (SWENA) with ERGM in Ottoman-Turkish Memoirs: A Hybrid Causal Analysis</td>
     <td>Mustafa Ilter</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_tittse_feature.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
