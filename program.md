@@ -467,17 +467,17 @@ Aula S1 - Chair: Alessandra Celati
   <tr>
     <td>Modeling Fragmented Prosopography: Historical Network Analysis and Archival Constraints in the 16th-Century Greek Community of Venice</td>
     <td>Eleni Makrygiorgou</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-A_makrygiorgou_greek_venice.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Networks of the Social Question: Republican and Catholic Reformers in Belle Époque France (1890–1920)</td>
     <td>Tommaso Giordani</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-A_giordani_belle_epoque.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>The Material Network of Empire: Household Objects, Sociability, and Mobility in Colonial India</td>
     <td>Rohini Panicker</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-A_panicker_empire.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
