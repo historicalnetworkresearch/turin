@@ -9,7 +9,7 @@ cover: false
 
 # Program
 
-The program of the Historical Network Research Conference 2026 includes 38 long papers and 26 short papers (across 20 sessions), Opening keynote, Round table, Workshop , and special presentations. It will bring together colleagues from all continents. Attendance is free, but registration is required.
+The program of the Historical Network Research Conference 2026 includes 38 long papers and 26 short papers (across 20 sessions), opening keynote, round table, workshop, and special presentations. It will bring together colleagues from all continents. Attendance is free, but registration is required.
 * Free conference registration [here](https://hnr2026.sciencesconf.org/registration);
 * Workshop registration is entirely separate from conference registration, register for Nodegoat workshop <a href="https://forms.gle/3cdVbiHLoJKF8SVdA">here<a>.
 
