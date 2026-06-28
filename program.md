@@ -517,12 +517,12 @@ Aula S1 - Chair: Clay Foye
   <tr>
     <td>Press, Power, Links and Public Spheres: Newspaper Networks in the Grand Duchy of Finland, 1867–1878</td>
     <td>Aytaç Yürükçü</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/9-A_yurukcu_press.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>The Flow of Information in European Book Publishing, 1500–1800</td>
-    <td>Peeter Tinits</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+    <td>Peeter Tinits, Oleg Sobchuk, Eetu Mäkelä, Iiro Tiihonen, Mikko Tolonen, Bret Beheim</td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/9-A_tinits_flow.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
