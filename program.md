@@ -15,7 +15,7 @@ The program of the Historical Network Research Conference 2026 includes 38 long 
 
 The [book of abstracts](/turin/abstracts) is available [here](/turin/abstracts/HNR2026_book_of_abstracts.pdf).
 
-<a href="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-06-28.pdf" target="_blank"><img src="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-06-28.jpg" style="width:600px"></a>
+<a href="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-06-28.jpg" target="_blank"><img src="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-06-28.jpg" style="width:600px"></a>
 
 
 ## 2026 Conference Focus: Networks and their Sources
