@@ -532,12 +532,12 @@ Aula S2 - Chair: TBD
   <tr>
     <td>Disclosing Counterfeit Networks: The International Association of Museum Officials in Defence Against Counterfeiting and Improper Trade Practices, c. 1900–1945</td>
     <td>Jaap Geraerts, Demival Vasques Filho</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/9-B_geraerts_counterfeit.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Harmonizing Historical Trade Using Geopolitical Data: A Multilayer Network Approach to Bilateral Flows, 1830–1938</td>
     <td>Paul Girard, Béatrice Dedinger, Guillaume Daudin, Youssef Ghallada</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/9-B_girard_bilateral.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
