@@ -165,7 +165,7 @@ Aula S1 - Chair: Margherita Criveller
 </table>
 
 ### SESSION 2-B: Ancient and Medieval Connectivity
-Aula S2 - Chair: TBD
+Aula S2 - Chair: Roberto Mussinatto
 <table>
   <tr>
     <td>Clustering Lead White References Across Graeco-Roman Genres: Visual Network Analysis from a TheSu XML Dataset</td>
