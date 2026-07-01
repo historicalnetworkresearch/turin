@@ -250,7 +250,7 @@ Aula S2 - Chair: Tiziana Pasciuto
   </tr>
   <tr>
     <td>Politics behind the Score: The Institutionalization of the São Paulo Municipal Symphony Orchestra</td>
-    <td>Breno Ampáro</td>
+    <td>Breno Ampáro, Renato Pereira Torres Borges, Paulo Augusto Castagna</td>
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/3-B_amparo_score.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
@@ -328,7 +328,7 @@ Aula S1 - Chair: Tiziana Pasciuto
 </table>
 
 ### SESSION 5-B: Print and Media Networks
-Aula S2 - Chair: TBD
+Aula S2 - Chair: Antonia Karaisl
 <table>
   <tr>
     <td>Echoes from the Periphery: Modelling Media Networks of the 1969 Apollo Landing in Authoritarian Portugal</td>
