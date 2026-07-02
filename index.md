@@ -18,7 +18,7 @@ The 11th International Historical Network Research Conference (HNR2026) will tak
 | <a href="program">**Registration Open**</a><br> HNR2026 Registration is open!  | <a href="program">**Program**</a><br>The keynote speaker will be <a href="https://scottbot.github.io/">Scott Weingart</a>. | <a href="practical">**Practical information**</a><br>Information about the the host city and institution. | 
 
 
-<img src="img/hnr_logo_vector.png" width="200">  <img src="img/logo_unito.png" width="100">  
+<img src="img/hnr_logo_vector.png" width="200">&nbsp;&nbsp;&nbsp<img src="img/logo_unito.png" width="100">  
 
 ### Sponsors
 
@@ -27,4 +27,4 @@ The 11th International Historical Network Research Conference (HNR2026) will tak
 
 DEMALPS and REDMIX are funded by the European Research Council (ERC)  (respectively grant numbers <a href="https://cordis.europa.eu/project/id/101077793">101077793</a> and  <a href="https://cordis.europa.eu/project/id/101124725 ">101124725 </a>)
 
-The project  "I mestieri della storia nella crisi delle humanities", run by the Department of Historical Studies - Università di Torino, is funded by the Italian Ministero dell'Università e della Ricerca (Dipartimento di Eccellenza 2023–2027, <a href="https://cordis.europa.eu/project/id/101124725">https://unifind.unito.it/resource/project/ECCELLENZA2327_D225</a>) ).
+The project  "I mestieri della storia nella crisi delle humanities", run by the Department of Historical Studies - Università di Torino, is funded by the Italian Ministero dell'Università e della Ricerca (Dipartimento di Eccellenza 2023–2027, <a href="https://unifind.unito.it/resource/project/ECCELLENZA2327_D225">https://unifind.unito.it/resource/project/ECCELLENZA2327_D225</a>).
