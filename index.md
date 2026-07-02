@@ -26,3 +26,5 @@ The 11th International Historical Network Research Conference (HNR2026) will tak
 
 
 DEMALPS and REDMIX are funded by the European Research Council (ERC)  (respectively grant numbers <a href="https://cordis.europa.eu/project/id/101077793">101077793</a> and  <a href="https://cordis.europa.eu/project/id/101124725 ">101124725 </a>)
+
+The project  "I mestieri della storia nella crisi delle humanities", run by the Department of Historical Studies - Università di Torino, is funded by the Italian Ministero dell'Università e della Ricerca (Dipartimento di Eccellenza 2023–2027, <a href="https://cordis.europa.eu/project/id/101124725">https://unifind.unito.it/resource/project/ECCELLENZA2327_D225</a>) ).
