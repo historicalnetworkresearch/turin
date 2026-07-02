@@ -18,7 +18,7 @@ The 11th International Historical Network Research Conference (HNR2026) will tak
 | <a href="program">**Registration Open**</a><br> HNR2026 Registration is open!  | <a href="program">**Program**</a><br>The keynote speaker will be <a href="https://scottbot.github.io/">Scott Weingart</a>. | <a href="practical">**Practical information**</a><br>Information about the the host city and institution. | 
 
 
-<img src="img/hnr_logo_vector.png" width="200">&nbsp;&nbsp;&nbsp<img src="img/logo_unito.png" width="100">  
+<img src="img/hnr_logo_vector.png" width="200">&nbsp;&nbsp;&nbsp;<img src="img/logo_unito.png" width="100">  
 
 ### Sponsors
 
