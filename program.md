@@ -120,7 +120,7 @@ Aula S2 - Chair: Jean-Paul Rehr
 ### SESSION 1-C: Women and Gender 
 Aula S3 - Chair: Alessandra Celati
 <table>
-   <tr>
+   <tr> 
     <td>Narrated Networks: Social Network Analysis of the Memoirs of Countess Luise Charlotte von Schwerin (1684–1732)</td>
     <td>Selina Galka, Marcella Tambuscio</td>
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-C_galka_narrated_networks.pdf','_blank')">Abstract (PDF)</button></td>
