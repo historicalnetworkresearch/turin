@@ -485,7 +485,7 @@ Aula S2 - Chair: Margherita Criveller
   <tr>
     <td>Hurry Slowly: The Jesuit Catalogs Database and Obstacles to Automation</td>
     <td>David Thomas, Alessandro Corsi</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_thomas_jesuit.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Researching Historical-Biographical Information in Digital Scholarly Editions through Event-Oriented Affiliation Networks</td>
