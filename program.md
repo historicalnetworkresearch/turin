@@ -541,7 +541,7 @@ Aula S2 - Chair: TBD
 Aula S1
 <table>
  <tr>
-    <td><b>A round table discussing sources and practices in histtorical network analysis</b></td>
+    <td><b>A round table discussing sources and practices in historical network analysis</b></td>
     <td>Roundtable: Sources and Historical Network Research Practices - Scott Weingart (Library of Virginia (USA), Amanda Madden (George Mason, USA), Federica Favino (University of Rome 'La Sapienza') organized by Alessandra Celati (Univ. Torino) and Margherita Criveller (Univ. Milano)</td>
     <td></td>
   </tr>
