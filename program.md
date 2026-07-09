@@ -13,7 +13,7 @@ The program of the Historical Network Research Conference 2026 includes 38 long 
 * Free conference registration [here](https://hnr2026.sciencesconf.org/registration);
 * Workshop registration is entirely separate from conference registration, register for Nodegoat workshop <a href="https://forms.gle/3cdVbiHLoJKF8SVdA">here<a>.
 
-The [book of abstracts](/turin/abstracts) is available [here](https://api.nakala.fr/data/10.34847/nkl.63ad9u9b/354798cde5188815ff8482e49fba3816b84e71e0).
+The book of abstracts is available [here](https://doi.org/10.34847/NKL.63AD9U9B).
 
 <a href="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-06-28.jpg" target="_blank"><img src="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-06-28.jpg" style="width:600px"></a>
 
