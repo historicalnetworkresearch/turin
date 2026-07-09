@@ -299,7 +299,7 @@ Aula S2 - Chair: Paul Guhennec
   </tr>
   <tr>
     <td>St. Petersburg Literacy Committee: Bipartite Networks of 1885 Correspondence</td>
-    <td>Anna Britanova, Artem Petrov, Iuna Minnubaeva</td>
+    <td>Anna Britanova</td>
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
