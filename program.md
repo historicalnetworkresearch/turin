@@ -148,11 +148,6 @@ Aula S1 - Chair: Margherita Criveller
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-A_banach_Investigating_the_resilience_of_waldensian.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
-    <td>Networks under Surveillance: Source Bias and Historical Network Reconstruction in Revolutionary Iran</td>
-    <td>Misagh Javadpour Depretis</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-A_javadpour_networks_under_surveillance.pdf','_blank')">Abstract (PDF))</button></td>
-  </tr>
-  <tr>
     <td>Watching Your Back: Identifying Organization and Movement Counter-Surveillance via FOIA Requests (1989–1992)</td>
     <td>Stephanie Zhang</td>
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/2-A_zhang_watching_your_back.pdf','_blank')">Abstract (PDF)</button></td>
