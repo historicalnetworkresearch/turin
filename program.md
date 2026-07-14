@@ -69,7 +69,7 @@ Roman Wall
 Aula S1
 <table>
  <tr>
-    <td><b>Welcoming remarks from the HNR2026 committee and the HNR Community Board</b></td>
+    <td><b>Welcoming remarks from the university, the HNR2026 committee and the HNR Community Board</b></td>
     <td>HNR2026 Organizers & HNR Community Board</td>
     <td></td>
   </tr>
@@ -375,7 +375,7 @@ Aula S1 - Chair: Margherita Criveller
 </table>
 
 ### SESSION 6-B: Medieval Material Culture in Circulation 
-Aula S2 - Chair: TBD
+Aula S2 - Chair: Martin Grandjean
 <table>
   <tr>
     <td>Mapping Monastic Networks: The TITULI Project and the Circulation of Medieval Mortuary Rolls (8th–16th c.)</td>
@@ -427,7 +427,7 @@ Aula S1 - Chair: Jean-Paul Rehr
 </table>
 
 ### SESSION 7-B: Migration and Mobility
-Aula S2 - Chair: TBD
+Aula S2 - Chair: Demival Vasques
 <table>
   <tr>
     <td>A Spatial Network Study of Itinerant Performers' Passports in 18th- and 19th-Century France</td>
@@ -517,7 +517,7 @@ Aula S1 - Chair: Clay Foye
 </table>
 
 ### SESSION 9-B: Trade and Commercial Exchange 
-Aula S2 - Chair: TBD
+Aula S2 - Chair: Marcella Tambuscio
 <table>
   <tr>
     <td>Disclosing Counterfeit Networks: The International Association of Museum Officials in Defence Against Counterfeiting and Improper Trade Practices, c. 1900–1945</td>
@@ -542,7 +542,7 @@ Aula S1
   </tr>
 </table>
 
-## 16:45-17:00 HNR 2026 CLOSING REMARKS
+## 17:00-17:30 HNR 2026 CLOSING REMARKS
 Aula S1
 <table>
  <tr>
