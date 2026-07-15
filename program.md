@@ -288,11 +288,6 @@ Aula S2 - Chair: Paul Guhennec
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_alcantara_brazil.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
-    <td>Reconstructing Visibility through Archival Sources: Grazia Pierantoni Mancini's Epistolary Networks</td>
-    <td>Aurora Sturli</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_sturli_mancini.pdf','_blank')">Abstract (PDF)</button></td>
-  </tr>
-  <tr>
     <td>Mapping Incoming Requests: Bipartite Network of St. Petersburg Literacy Committee 1885 Correspondence</td>
     <td>Anna Britanova</td>
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/4-B_britanova_st_petersburg.pdf','_blank')">Abstract (PDF)</button></td>
