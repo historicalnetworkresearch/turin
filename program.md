@@ -485,12 +485,12 @@ Aula S2 - Chair: Margherita Criveller
   <tr>
     <td>The Feature Networks of High Medieval Writing</td>
     <td>Celis Tittse</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_thomas_jesuit.pdf','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_tittse_feature.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>Unveiling Sentiment Weighted Network Analysis (SWENA) with ERGM in Ottoman-Turkish Memoirs: A Hybrid Causal Analysis</td>
     <td>Mustafa Ilter</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_tittse_feature.pdf','_blank')">Abstract (PDF)</button></td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_ilter_memoirs.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
