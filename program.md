@@ -369,32 +369,7 @@ Aula S1 - Chair: Margherita Criveller
   </tr>
 </table>
 
-### SESSION 6-B: Medieval Material Culture in Circulation 
-Aula S2 - Chair: Martin Grandjean
-<table>
-  <tr>
-    <td>Mapping Monastic Networks: The TITULI Project and the Circulation of Medieval Mortuary Rolls (8th–16th c.)</td>
-    <td>Davide Gherdevich, Eric Mermet, Alice Nappa, Giulia Mezzadri, Julien Randon-Furling</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/6-B_gherdevich_tituli.pdf','_blank')">Abstract (PDF)</button></td>
-  </tr>
-  <tr>
-    <td>NOMISMATA: Exploring Numismatic Networks Emerging from a Source-Driven Database</td>
-    <td>Giorgio Donato, Pim Van Bree, Geert Kessels</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/6-B_donato_nomismata.pdf','_blank')">Abstract (PDF)</button></td>
-  </tr>
-</table>
 
-<!--
-## 17:45-18:15 PRESENTATION - WHAT'S NEW IN GEPHI?
-Aula S1
-<table>
- <tr>
-    <td><b>A presentation of recent developments in Gephi (v0.11) and the Gephi community</b></td>
-    <td>Martin Grandjean</td>
-    <td></td>
-  </tr>
-</table>
--->
 ___
 
 # Wednesday, 22 July
@@ -523,6 +498,11 @@ Aula S2 - Chair: Marcella Tambuscio
     <td>Harmonizing Historical Trade Using Geopolitical Data: A Multilayer Network Approach to Bilateral Flows, 1830–1938</td>
     <td>Paul Girard, Béatrice Dedinger, Guillaume Daudin, Youssef Ghallada</td>
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/9-B_girard_bilateral.pdf','_blank')">Abstract (PDF)</button></td>
+  </tr>
+  <tr>
+    <td>NOMISMATA: Exploring Numismatic Networks Emerging from a Source-Driven Database</td>
+    <td>Giorgio Donato, Pim Van Bree, Geert Kessels</td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/6-B_donato_nomismata.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
