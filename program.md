@@ -110,11 +110,6 @@ Aula S2 - Chair: Jean-Paul Rehr
     <td>Riccardo Katia, David Zbíral, Zoltán Brys, Robert L. J. Shaw</td>
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-B_riccardo_from_testimony_to_network.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
-  <tr>
-    <td>Gender bias and endogenous dynamics of denunciations in shaping knowledge about the heterodox</td>
-    <td>Davor Salihovic, José Estévez</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/1-B_salihovic_gender_bias_and_endogenous_dynamics.pdf','_blank')">Abstract (PDF)</button></td>
-  </tr>
 </table>
 
 ### SESSION 1-C: Women and Gender 
