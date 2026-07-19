@@ -322,25 +322,7 @@ Aula S2 - Chair: Antonia Karaisl
   </tr>
 </table>
 
-### SESSION 5-C: Detecting Communities in Historical Sources
-Aula S3 - Chair: Aliaksandra Valodzina
-<table>
-  <tr>
-    <td>Filtering the Emperor: Communication Networks around Maximilian I (1459–1519)</td>
-    <td>Marcella Tambuscio, Suzana Sagadin, Richard Hadden, Georg Vogeler</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-C_tambuscio_maximilian.pdf','_blank')">Abstract (PDF)</button></td>
-  </tr>
-  <tr>
-    <td>From Mentions to Modularity: Co-Occurrence Networks in Ancient Greek and Latin Texts</td>
-    <td>Evelien De Graaf, Julie Nijs</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-C_de_graaf_ancient.pdf','_blank')">Abstract (PDF)</button></td>
-  </tr>
-  <tr>
-    <td>The Invisible College of Medicine in Jagiellonian Courts: The Network of Giovanni Manardo's Medical Letters</td>
-    <td>Cihan Şimşek</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-C_simsek_manardo.pdf','_blank')">Abstract (PDF)</button></td>
-  </tr>
-</table>
+
 
 ## 16:00–17:30 PARALLEL SESSIONS 6 – LONG PAPERS
 
@@ -364,6 +346,25 @@ Aula S1 - Chair: Margherita Criveller
   </tr>
 </table>
 
+### SESSION 6-B: Detecting Communities in Historical Sources
+Aula S3 - Chair: Aliaksandra Valodzina
+<table>
+  <tr>
+    <td>Filtering the Emperor: Communication Networks around Maximilian I (1459–1519)</td>
+    <td>Marcella Tambuscio, Suzana Sagadin, Richard Hadden, Georg Vogeler</td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-C_tambuscio_maximilian.pdf','_blank')">Abstract (PDF)</button></td>
+  </tr>
+  <tr>
+    <td>From Mentions to Modularity: Co-Occurrence Networks in Ancient Greek and Latin Texts</td>
+    <td>Evelien de Graaf, Julie Nijs</td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-C_de_graaf_ancient.pdf','_blank')">Abstract (PDF)</button></td>
+  </tr>
+  <tr>
+    <td>The Invisible College of Medicine in Jagiellonian Courts: The Network of Giovanni Manardo's Medical Letters</td>
+    <td>Cihan Şimşek</td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-C_simsek_manardo.pdf','_blank')">Abstract (PDF)</button></td>
+  </tr>
+</table>
 
 ___
 
