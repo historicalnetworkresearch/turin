@@ -323,7 +323,7 @@ Aula S2 - Chair: Antonia Karaisl
 </table>
 
 ### SESSION 5-C: Trade and Commercial Exchange 
-Aula S2 - Chair: Martin Grandjean
+Aula S3 - Chair: Martin Grandjean
 <table>
   <tr>
     <td>Disclosing Counterfeit Networks: The International Association of Museum Officials in Defence Against Counterfeiting and Improper Trade Practices, c. 1900–1945</td>
