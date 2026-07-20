@@ -322,7 +322,25 @@ Aula S2 - Chair: Antonia Karaisl
   </tr>
 </table>
 
-
+### SESSION 5-C: Trade and Commercial Exchange 
+Aula S2 - Chair: Martin Grandjean
+<table>
+  <tr>
+    <td>Disclosing Counterfeit Networks: The International Association of Museum Officials in Defence Against Counterfeiting and Improper Trade Practices, c. 1900–1945</td>
+    <td>Jaap Geraerts, Demival Vasques Filho</td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/9-B_geraerts_counterfeit.pdf','_blank')">Abstract (PDF)</button></td>
+  </tr>
+  <tr>
+    <td>Harmonizing Historical Trade Using Geopolitical Data: A Multilayer Network Approach to Bilateral Flows, 1830–1938</td>
+    <td>Paul Girard, Béatrice Dedinger, Guillaume Daudin, Youssef Ghallada</td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/9-B_girard_bilateral.pdf','_blank')">Abstract (PDF)</button></td>
+  </tr>
+  <tr>
+    <td>NOMISMATA: Exploring Numismatic Networks Emerging from a Source-Driven Database</td>
+    <td>Giorgio Donato, Pim Van Bree, Geert Kessels</td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/6-B_donato_nomismata.pdf','_blank')">Abstract (PDF)</button></td>
+  </tr>
+</table>
 
 ## 16:00–17:30 PARALLEL SESSIONS 6 – LONG PAPERS
 
@@ -482,25 +500,6 @@ Aula S1 - Chair: Clay Foye
   </tr>
 </table>
 
-### SESSION 9-B: Trade and Commercial Exchange 
-Aula S2 - Chair: Marcella Tambuscio
-<table>
-  <tr>
-    <td>Disclosing Counterfeit Networks: The International Association of Museum Officials in Defence Against Counterfeiting and Improper Trade Practices, c. 1900–1945</td>
-    <td>Jaap Geraerts, Demival Vasques Filho</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/9-B_geraerts_counterfeit.pdf','_blank')">Abstract (PDF)</button></td>
-  </tr>
-  <tr>
-    <td>Harmonizing Historical Trade Using Geopolitical Data: A Multilayer Network Approach to Bilateral Flows, 1830–1938</td>
-    <td>Paul Girard, Béatrice Dedinger, Guillaume Daudin, Youssef Ghallada</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/9-B_girard_bilateral.pdf','_blank')">Abstract (PDF)</button></td>
-  </tr>
-  <tr>
-    <td>NOMISMATA: Exploring Numismatic Networks Emerging from a Source-Driven Database</td>
-    <td>Giorgio Donato, Pim Van Bree, Geert Kessels</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/6-B_donato_nomismata.pdf','_blank')">Abstract (PDF)</button></td>
-  </tr>
-</table>
 
 
 ## 15:15-16:45 HNR 2026 ROUND TABLE – CHALLENGES IN HNR AND ITS SOURCES
