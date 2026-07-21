@@ -365,7 +365,7 @@ Aula S1 - Chair: Margherita Criveller
 </table>
 
 ### SESSION 6-B: Detecting Communities in Historical Sources
-Aula S3 - Chair: Aliaksandra Valodzina
+Aula S2 - Chair: Aliaksandra Valodzina
 <table>
   <tr>
     <td>Filtering the Emperor: Communication Networks around Maximilian I (1459–1519)</td>
@@ -378,7 +378,7 @@ Aula S3 - Chair: Aliaksandra Valodzina
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-C_de_graaf_ancient.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
-    <td>The Invisible College of Medicine in Jagiellonian Courts: The Network of Giovanni Manardo's Medical Letters</td>
+    <td>WITHDRAWN: The Invisible College of Medicine in Jagiellonian Courts: The Network of Giovanni Manardo's Medical Letters</td>
     <td>Cihan Şimşek</td>
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-C_simsek_manardo.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
