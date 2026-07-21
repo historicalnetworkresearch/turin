@@ -388,7 +388,7 @@ ___
 
 # Wednesday, 22 July
 
-## 9:00–11:30 PARALLEL SESSIONS 7 – LONG PAPERS
+## 9:00–10:30 PARALLEL SESSIONS 7 – LONG PAPERS
 
 ### SESSION 7-A: Discovering Networks in the Sources
 Aula S1 - Chair: Jean-Paul Rehr
