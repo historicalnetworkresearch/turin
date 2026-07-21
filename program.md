@@ -15,9 +15,6 @@ The program of the Historical Network Research Conference 2026 includes 38 long 
 
 The book of abstracts is available [here](https://doi.org/10.34847/NKL.63AD9U9B).
 
-<a href="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-06-28.jpg" target="_blank"><img src="https://historicalnetworkresearch.github.io/turin/img/HNR2026_schedule_rev2026-06-28.jpg" style="width:600px"></a>
-
-
 ## 2026 Conference Focus: Networks and their Sources
 The 2026 edition of the conference will see a broad range (temporal and thematic) of papers embracing historical networks research, however the guiding conference theme is  **Sources**: an exploration of their role in, and relationship to, historical network research.
 
@@ -479,7 +476,7 @@ Aula S2 - Chair: Margherita Criveller
   <tr>
     <td>Unveiling Sentiment Weighted Network Analysis (SWENA) with ERGM in Ottoman-Turkish Memoirs: A Hybrid Causal Analysis</td>
     <td>Mustafa Ilter</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_ilter_memoirs.pdf','_blank')">Abstract (PDF)</button></td>
+    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_ilter_memoirs.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
 </table>
 
@@ -502,7 +499,7 @@ Aula S1 - Chair: Clay Foye
 
 
 
-## 15:30-16:45 HNR 2026 ROUND TABLE – CHALLENGES IN HNR AND ITS SOURCES
+## 15:30-16:55 HNR 2026 ROUND TABLE – CHALLENGES IN HNR AND ITS SOURCES
 Aula S1
 <table>
  <tr>
