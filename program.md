@@ -469,11 +469,6 @@ Aula S2 - Chair: Margherita Criveller
      <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_grandjean_embeddings.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
-    <td>The Feature Networks of High Medieval Writing</td>
-    <td>Celis Tittse</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_tittse_feature.pdf','_blank')">Abstract (PDF)</button></td>
-  </tr>
-  <tr>
     <td>Unveiling Sentiment Weighted Network Analysis (SWENA) with ERGM in Ottoman-Turkish Memoirs: A Hybrid Causal Analysis</td>
     <td>Mustafa Ilter</td>
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_ilter_memoirs.pdf','_blank')">Abstract (PDF)</button></td>
@@ -486,9 +481,9 @@ Aula S2 - Chair: Margherita Criveller
 Aula S1 - Chair: Clay Foye
 <table>
   <tr>
-    <td>Press, Power, Links and Public Spheres: Newspaper Networks in the Grand Duchy of Finland, 1867–1878</td>
-    <td>Aytaç Yürükçü</td>
-     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/9-A_yurukcu_press.pdf','_blank')">Abstract (PDF)</button></td>
+    <td>The Feature Networks of High Medieval Writing</td>
+    <td>Celis Tittse</td>
+     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/8-B_tittse_feature.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
   <tr>
     <td>The Flow of Information in European Book Publishing, 1500–1800</td>
