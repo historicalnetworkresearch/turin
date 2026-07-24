@@ -374,11 +374,6 @@ Aula S2 - Chair: Aliaksandra Valodzina
     <td>Evelien de Graaf, Julie Nijs</td>
     <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-C_de_graaf_ancient.pdf','_blank')">Abstract (PDF)</button></td>
   </tr>
-  <tr>
-    <td>WITHDRAWN: The Invisible College of Medicine in Jagiellonian Courts: The Network of Giovanni Manardo's Medical Letters</td>
-    <td>Cihan Şimşek</td>
-    <td><button class="button button2" onclick="window.open('https://historicalnetworkresearch.github.io/turin/abstracts/5-C_simsek_manardo.pdf','_blank')">Abstract (PDF)</button></td>
-  </tr>
 </table>
 
 ___
@@ -477,7 +472,7 @@ Aula S2 - Chair: Margherita Criveller
 
 ## 14:00–15:00 PARALLEL SESSIONS 9 — LONG PAPERS
 
-### SESSION 9-A: Print Culture and Information Flow 
+### SESSION 9-A: Books, Manuscripts and Information Flow 
 Aula S1 - Chair: Clay Foye
 <table>
   <tr>
